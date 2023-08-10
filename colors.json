@@ -1,0 +1,133 @@
+{
+  "colors": [
+    {
+      "name": "AliceBlue",
+      "isPrimary": true,
+      "hexCode": "#f0f8ff"
+    },
+    {
+      "name": "AntiqueWhite",
+      "isPrimary": false,
+      "hexCode": "#faebd7"
+    },
+    {
+      "name": "Aqua",
+      "isPrimary": false,
+      "hexCode": "#00ffff"
+    },
+    {
+      "name": "Aquamarine",
+      "isPrimary": false,
+      "hexCode": "#7fffd4"
+    },
+    {
+      "name": "Azure",
+      "isPrimary": false,
+      "hexCode": "#f0ffff"
+    },
+    {
+      "name": "Beige",
+      "isPrimary": false,
+      "hexCode": "#f5f5dc"
+    },
+    {
+      "name": "Bisque",
+      "isPrimary": false,
+      "hexCode": "#ffe4c4"
+    },
+    {
+      "name": "Black",
+      "isPrimary": false,
+      "hexCode": "#000000"
+    },
+    {
+      "name": "BlanchedAlmond",
+      "isPrimary": false,
+      "hexCode": "#ffebcd"
+    },
+    {
+      "name": "Blue",
+      "isPrimary": true,
+      "hexCode": "#0000ff"
+    },
+    {
+      "name": "BlueViolet",
+      "isPrimary": false,
+      "hexCode": "#8a2be2"
+    },
+    {
+      "name": "Brown",
+      "isPrimary": false,
+      "hexCode": "#a52a2a"
+    },
+    {
+      "name": "BurlyWood",
+      "isPrimary": false,
+      "hexCode": "#deb887"
+    },
+    {
+      "name": "CadetBlue",
+      "isPrimary": false,
+      "hexCode": "#5f9ea0"
+    },
+    {
+      "name": "Chartreuse",
+      "isPrimary": false,
+      "hexCode": "#7fff00"
+    },
+    {
+      "name": "Chocolate",
+      "isPrimary": false,
+      "hexCode": "#d2691e"
+    },
+    {
+      "name": "Coral",
+      "isPrimary": false,
+      "hexCode": "#ff7f50"
+    },
+    {
+      "name": "CornflowerBlue",
+      "isPrimary": false,
+      "hexCode": "#6495ed"
+    },
+    {
+      "name": "Crimson",
+      "isPrimary": false,
+      "hexCode": "#dc143c"
+    },
+    {
+      "name": "Cyan",
+      "isPrimary": false,
+      "hexCode": "#00ffff"
+    },
+    {
+      "name": "DarkBlue",
+      "isPrimary": false,
+      "hexCode": "#00008b"
+    },
+    {
+      "name": "DarkCyan",
+      "isPrimary": false,
+      "hexCode": "#008b8b"
+    },
+    {
+      "name": "DarkGoldenRod",
+      "isPrimary": false,
+      "hexCode": "#b8860b"
+    },
+    {
+      "name": "DarkGray",
+      "isPrimary": false,
+      "hexCode": "#a9a9a9"
+    },
+    {
+      "name": "DarkGreen",
+      "isPrimary": false,
+      "hexCode": "#006400"
+    },
+    {
+      "name": "DarkKhaki",
+      "isPrimary": false,
+	"hexCode": "#bdb76b"}  ],
+  "totalColors": 30
+}
