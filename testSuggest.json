@@ -1,0 +1,48 @@
+ {
+        value: "jquery",
+        label: "jQuery",
+        desc: "the write less, do more, JavaScript library",
+        icon: "jquery_32x32.png",
+		url: "https://www.google.com.au/?query=test1",
+		category: "Business"
+      },
+      {
+        value: "jquery-ui",
+        label: "jQuery UI",
+        desc: "the official user interface library for jQuery",
+        icon: "jqueryui_32x32.png",
+		url: "https://www.google.com.au/?query=test2",
+		category: "Business"
+      },
+      {
+        value: "sizzlejs",
+        label: "Sizzle JS",
+        desc: "a pure-JavaScript CSS selector engine",
+        icon: "sizzlejs_32x32.png",
+		url: "https://www.google.com.au/?query=test3",
+		category: "Business"
+      },
+	  {
+        value: "Apples",
+        label: "Appy appy",
+        desc: "the write less, do more, JavaScript library",
+        icon: "jquery_32x32.png",
+		url: "https://www.google.com.au/?query=test1",
+		category: "Category"
+      },
+      {
+        value: "Banana",
+        label: "Banana nana",
+        desc: "The bananan page yeah yeah",
+        icon: "jqueryui_32x32.png",
+		url: "https://www.google.com.au/?query=test2",
+		category: "Category"
+      },
+      {
+        value: "Strawberry",
+        label: "Strawberry madness",
+        desc: "a pure-JavaScript CSS selector engine",
+        icon: "sizzlejs_32x32.png",
+		url: "https://www.google.com.au/?query=test3",
+		category: "Category"
+      }
