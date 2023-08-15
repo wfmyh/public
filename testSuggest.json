@@ -1,5 +1,5 @@
  {
-        value: "jquery",
+        value: "gitHjquery",
         label: "jQuery",
         desc: "the write less, do more, JavaScript library",
         icon: "jquery_32x32.png",
@@ -7,7 +7,7 @@
 		category: "Business"
       },
       {
-        value: "jquery-ui",
+        value: "gitHjquery-ui",
         label: "jQuery UI",
         desc: "the official user interface library for jQuery",
         icon: "jqueryui_32x32.png",
