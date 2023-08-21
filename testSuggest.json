@@ -1,6 +1,6 @@
  {
         value: "gitHjquery",
-        label: "jQuery",
+        label: "jQuerygithub",
         desc: "the write less, do more, JavaScript library",
         icon: "jquery_32x32.png",
 		url: "https://www.google.com.au/?query=test1",
@@ -8,7 +8,7 @@
       },
       {
         value: "gitHjquery-ui",
-        label: "jQuery UI",
+        label: "jQuery UIgithub",
         desc: "the official user interface library for jQuery",
         icon: "jqueryui_32x32.png",
 		url: "https://www.google.com.au/?query=test2",
@@ -16,7 +16,7 @@
       },
       {
         value: "sizzlejs",
-        label: "Sizzle JS",
+        label: "Sizzle JSgithub",
         desc: "a pure-JavaScript CSS selector engine",
         icon: "sizzlejs_32x32.png",
 		url: "https://www.google.com.au/?query=test3",
@@ -24,7 +24,7 @@
       },
 	  {
         value: "Apples",
-        label: "Appy appy",
+        label: "Appy appygithub",
         desc: "the write less, do more, JavaScript library",
         icon: "jquery_32x32.png",
 		url: "https://www.google.com.au/?query=test1",
@@ -32,7 +32,7 @@
       },
       {
         value: "Banana",
-        label: "Banana nana",
+        label: "Banana nanagithub",
         desc: "The bananan page yeah yeah",
         icon: "jqueryui_32x32.png",
 		url: "https://www.google.com.au/?query=test2",
@@ -40,7 +40,7 @@
       },
       {
         value: "Strawberry",
-        label: "Strawberry madness",
+        label: "Strawberry madnessgithub",
         desc: "a pure-JavaScript CSS selector engine",
         icon: "sizzlejs_32x32.png",
 		url: "https://www.google.com.au/?query=test3",
