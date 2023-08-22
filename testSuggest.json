@@ -1,4 +1,4 @@
-"item": [
+{"item": [
       {
         value: "jquery",
         label: "jQuery",
@@ -48,3 +48,4 @@
 		category: "Category"
       }
     ]
+}
