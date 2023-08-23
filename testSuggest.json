@@ -25,27 +25,27 @@
 	"category" : "Business"
       },
 	  {
-        "value" : "Apples",
-        "label" : "Appy appy",
+        "value" : "abrasion-resistant-materials-plastic",
+        "label" : "Abrasion Resistant Materials, Plastic",
         "desc" : "the write less, do more, JavaScript library",
       
-	"url" : "https://www.google.com.au/?query=test1",
+	"url" : "/categories/abrasion-resistant-materials-plastic-323074701",
 	"category" : "Category"
       },
       {
-        "value" : "Banana",
-        "label" : "Banana nana",
+        "value" : "air-slides",
+        "label" : "air-slides-927601777",
         "desc" : "The bananan page yeah yeah",
       
-	"url" : "https://www.google.com.au/?query=test2",
+	"url" : "/categories/air-slides-927601777",
 	"category" : "Category"
       },
       {
-        "value" : "Strawberry",
-        "label" : "Strawberry madness",
+        "value" : "conveyor-equipment-control-equipment-543362501",
+        "label" : "Conveyor Equipment, Control Equipment",
         "desc" : "a pure-JavaScript CSS selector engine",
     
-	"url" : "https://www.google.com.au/?query=test3",
+	"url" : "/categories/conveyor-equipment-control-equipment-543362501",
 	"category" : "Category"
       }
     ]
