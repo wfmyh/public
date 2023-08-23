@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>jQuery UI Autocomplete - Remote datasource</title>
+  <link rel="stylesheet" media="screen" href="https://d2mzye22fnnnxs.cloudfront.net/assets/food_processing-35a7550986d075d376dec3455632394de2fc2eedf0ad4a20f227eadbb26e32c3.css" />
+
+<script src="https://d2mzye22fnnnxs.cloudfront.net/assets/food_processing-fd92c8425282b3d8d2365bb95c4ce3389734050c7a99aa52b3a8423005a77ba2.js"></script>
+
+  <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
+  
+  <style>
+  .ui-autocomplete-loading {
+    background: white url("http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/themes/smoothness/images/ui-anim_basic_16x16.gif") right center no-repeat;
+  }
+  </style>
+
+  <script>
+  $( function() {
+    function log( message ) {
+      $( "<div>" ).text( message ).prependTo( "#log" );
+      $( "#log" ).scrollTop( 0 );
+    }
+ 
+    $( "#birds" ).autocomplete({
+      
+      source: function( request, response ) {
+        $.ajax( {
+          url: "https://jqueryui.com/resources/demos/autocomplete/search.php",
+          dataType: "json",
+		  data: {
+            term: request.term
+          },
+          success: function( data ) {
+			console.log("here");
+			console.log(data);
+            response( data.item );
+          }
+        } );
+      },	  
+      select: function( event, ui ) {
+        
+		console.log( "Selected: " + ui.item.value + " aka " + ui.item.label );
+		
+      }
+    });
+  } );
+  </script>
+</head>
+<body>
+ 
+<div class="ui-widget">
+  <label for="birds">Birds 1: </label>
+  <input id="birds">
+</div>
+ 
+
+ 
+ 
+</body>
+</html>
