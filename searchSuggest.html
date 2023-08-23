@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>jQuery UI Autocomplete - Categories</title>
   <link rel="stylesheet" href="https://code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css">
-  <!-- <link rel="stylesheet" href="/resources/demos/style.css"> -->
+
   <link rel="stylesheet" media="screen" href="https://d2mzye22fnnnxs.cloudfront.net/assets/food_processing-35a7550986d075d376dec3455632394de2fc2eedf0ad4a20f227eadbb26e32c3.css" />
 
 <script src="https://d2mzye22fnnnxs.cloudfront.net/assets/food_processing-fd92c8425282b3d8d2365bb95c4ce3389734050c7a99aa52b3a8423005a77ba2.js"></script>
@@ -17,8 +17,7 @@
     line-height: 1.5;
   }
   </style>
-  <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
-  <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
+
   <script>
   $( function() {
 
@@ -123,7 +122,7 @@
           source: function( request, response ) {
         $.ajax( {
           //url: "https://raw.githubusercontent.com/wfmyh/public/main/testSuggest.json?query=",
-		  url: "https://raw.githubusercontent.com/wfmyh/public_b1/main/testSuggest.json?query=",
+	url: "https://raw.githubusercontent.com/wfmyh/public_b1/main/testSuggest.json?query=",
           dataType: "json",
 		  data: {
             term: request.term
@@ -131,7 +130,7 @@
           success: function( data ) {
 			console.log("here");
 			console.log(data);
-            response( data.item );
+      			response( data.item );
 			console.log("Request Term is: " + request.term);
           }
         } );
