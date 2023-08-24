@@ -5,7 +5,7 @@
 		"name": "WFM",
 		"logo": "https://s3-ap-southeast-2.amazonaws.com/staging-oms/brochures/5039/pool_and_spa_logo/shark.jpg?1691462354",
 		"link": "/directories/wfm-645299215",
-		"suggestType" : "_Business listings"
+		"suggestType" : "Business listings"
 	
 	},
 	{
@@ -13,51 +13,51 @@
 		"name": "ICP Electronics",
 		"logo": "https://s3-ap-southeast-2.amazonaws.com/staging-oms/brochures/2469/pool_and_spa_logo/icp_formal_logo.jpg?1688363588",
 		"link": "/directories/icp-electronics-australia-pty-ltd-599347536",
-		"suggestType" : "_Business listings"
+		"suggestType" : "Business listings"
 	},
 	{
 		"id": "rolec-okw-australia-new-zealand-pty-ltd-978832855",		
 		"name": "ROLEC",
 		"logo": "https://s3-ap-southeast-2.amazonaws.com/staging-oms/brochures/1785/pool_and_spa_logo/Rolec_only_%281%29.jpg?1691649037",
 		"link": "/directories/rolec-okw-australia-new-zealand-pty-ltd-978832855",
-		"suggestType" : "_Business listings"
+		"suggestType" : "Business listings"
 	},
 	{
 		"id": "rolec-okw-184273586",
 		"name": "OKW",
 		"logo": "https://s3-ap-southeast-2.amazonaws.com/staging-oms/brochures/4988/pool_and_spa_logo/OKW_only.jpg?1691029577",
 		"link": "/directories/rolec-okw-184273586",
-		"suggestType" : "_Business listings"
+		"suggestType" : "Business listings"
 	},
 	{
 		"id": "absorbers-rf-390432464",
 		"name":	"Absorbers, RF",
 		"link":	"/categories/absorbers-rf-390432464",
-		"suggestType" : "_Categories"
+		"suggestType" : "Categories"
 	},
 	{
 		"id":	"acoustical-services-379830194",
 		"name":	"Acoustical Services",
 		"link":	"/categories/acoustical-services-379830194",
-		"suggestType" : "_Categories"
+		"suggestType" : "Categories"
 	},
 	{
 		"id":	"actuators-rotary-solenoid-474403725",
 		"name":	"Actuators, Rotary Solenoid",
 		"link":	"/categories/actuators-rotary-solenoid-474403725",
-		"suggestType" : "_Categories"
+		"suggestType" : "Categories"
 	},
 	{
 		"id":	"actuators-voice-coil-73255566",
 		"name":	"Actuators, Voice Coil",
 		"link":	"/categories/actuators-voice-coil-73255566",
-		"suggestType" : "_Categories"
+		"suggestType" : "Categories"
 	},
 	{
 		"id": "adaptors-audio-297336060",
 		"name":	"Adaptors, Audio",
 		"link":	"/categories/adaptors-audio-297336060",
-		"suggestType" : "_Categories"
+		"suggestType" : "Categories"
 	}
 	]
 }
