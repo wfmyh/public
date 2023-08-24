@@ -1,6 +1,14 @@
 {
 	"suggestions": [
 	{
+		"id": "wfm-6452992152",
+		"name": "WFM2",
+		"logo": "https://s3-ap-southeast-2.amazonaws.com/staging-oms/brochures/5039/pool_and_spa_logo/shark.jpg?1691462354",
+		"link": "/directories/wfm-645299215",
+		"suggestType" : "Business listings"
+	
+	},
+	{
 		"id": "wfm-645299215",
 		"name": "WFM",
 		"logo": "https://s3-ap-southeast-2.amazonaws.com/staging-oms/brochures/5039/pool_and_spa_logo/shark.jpg?1691462354",
