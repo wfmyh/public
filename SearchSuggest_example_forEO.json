@@ -53,12 +53,6 @@
 		"name":	"Actuators, Voice Coil",
 		"link":	"/categories/actuators-voice-coil-73255566",
 		"suggestType" : "Categories"
-	},
-	{
-		"id": "adaptors-audio-297336060",
-		"name":	"Adaptors, Audio",
-		"link":	"/categories/adaptors-audio-297336060",
-		"suggestType" : "Categories"
 	}
 	]
 }
