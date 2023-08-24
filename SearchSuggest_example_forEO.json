@@ -1,5 +1,5 @@
 {
-	"premium": [
+	"suggestions": [
 	{
 		"id": "wfm-645299215",
 		"name": "WFM",
@@ -23,33 +23,31 @@
 		"name": "OKW",
 		"logo": "https://s3-ap-southeast-2.amazonaws.com/staging-oms/brochures/4988/pool_and_spa_logo/OKW_only.jpg?1691029577",
 		"link": "/directories/rolec-okw-184273586"
-	}
-	],
-	"categories": [
-		{
+	},
+	{
 		"id": "absorbers-rf-390432464",
 		"name":	"Absorbers, RF",
 		"link":	"/categories/absorbers-rf-390432464"
-		},
-		{
+	},
+	{
 		"id":	"acoustical-services-379830194",
 		"name":	"Acoustical Services",
 		"link":	"/categories/acoustical-services-379830194"
-		},
-		{
+	},
+	{
 		"id":	"actuators-rotary-solenoid-474403725",
 		"name":	"Actuators, Rotary Solenoid",
 		"link":	"/categories/actuators-rotary-solenoid-474403725"
-		},
-		{
+	},
+	{
 		"id":	"actuators-voice-coil-73255566",
 		"name":	"Actuators, Voice Coil",
 		"link":	"/categories/actuators-voice-coil-73255566"
-		},
-		{
+	},
+	{
 		"id": "adaptors-audio-297336060",
 		"name":	"Adaptors, Audio",
 		"link":	"/categories/adaptors-audio-297336060"
-		}
-		]
+	}
+	]
 }
