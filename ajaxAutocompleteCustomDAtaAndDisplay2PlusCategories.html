@@ -4,24 +4,32 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>jQuery UI Autocomplete - Categories</title>
-  <link rel="stylesheet" href="https://code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css">
-  <!-- <link rel="stylesheet" href="/resources/demos/style.css"> -->
-  <link rel="stylesheet" media="screen" href="https://d2mzye22fnnnxs.cloudfront.net/assets/food_processing-35a7550986d075d376dec3455632394de2fc2eedf0ad4a20f227eadbb26e32c3.css" />
+  <link rel="stylesheet" media="screen" href="https://d2mzye22fnnnxs.cloudfront.net/assets/food_processing-35a7550986d075d376dec3455632394de2fc2eedf0ad4a20f227eadbb26e32c3.css" />  
+  <script src="https://d2mzye22fnnnxs.cloudfront.net/assets/food_processing-fd92c8425282b3d8d2365bb95c4ce3389734050c7a99aa52b3a8423005a77ba2.js"></script>
 
-<script src="https://d2mzye22fnnnxs.cloudfront.net/assets/food_processing-fd92c8425282b3d8d2365bb95c4ce3389734050c7a99aa52b3a8423005a77ba2.js"></script>
-	<style>
-  .ui-autocomplete-category {
-    font-weight: bold;
-    padding: .2em .4em;
-    margin: .8em 0 .2em;
-    line-height: 1.5;
-  }
-  </style>
-  <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+<!-- Code to import into OMS START -->
+  <link rel="stylesheet" href="https://code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css">
   <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
+  
+  <style>
+	.ui-autocomplete-category {
+		font-weight: bold;
+		padding: .2em .4em;
+		margin: .8em 0 .2em;
+		line-height: 1.5;
+  }
+	.ui-autocomplete-loading {
+		background: white url("http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/themes/smoothness/images/ui-anim_basic_16x16.gif") right center no-repeat;
+  }
+  
+    .ui-menu-item img {
+		width: 80px;
+	}
+	
+  </style>
+
   <script>
   $( function() {
-
     $.widget( "custom.catcomplete", $.ui.autocomplete, {
       _create: function() {
         this._super();
@@ -29,116 +37,101 @@
       },
       _renderMenu: function( ul, items ) {
         var that = this,
-          currentCategory = "";
-        $.each( items, function( index, item ) {
+          currentType = "";
+        $.each( items, function( index, suggestions ) {
           var li;
-          if ( item.category != currentCategory ) {
-            ul.append( "<li class='ui-autocomplete-category'>" + item.category + "</li>" );
-            currentCategory = item.category;
+          if ( suggestions.suggestType != currentType ) {
+            ul.append( "<li class='ui-autocomplete-category'>" + suggestions.suggestType + "</li>" );
+            currentType = suggestions.suggestType;
           }
-          li = that._renderItemData( ul, item );
-          if ( item.category ) {
-            li.attr( "aria-label", item.category + " : " + item.label );
+          li = that._renderItemData( ul, suggestions );
+          if ( suggestions.suggestType ) {
+            li.attr( "aria-label", suggestions.suggestType + " : " + suggestions.name );
           }
         });
       },
-	  
-	  _renderItem: function( ul, item ) {
+	  	
+	  _renderItem: function( ul, suggestions ) {
 		<!-- Start code to accomodate missing images from categories -->
 		var imgCode = "";
-		if (Object.hasOwn(item, "icon")) {
-		imgCode= "<img class=\"pull-left\" style=\"padding-right:5px\" src=\""+"https://jqueryui.com/resources/demos/autocomplete/images/"+item.icon+"\" />";
+		if (Object.hasOwn(suggestions, "logo")) {
+		imgCode= "<img class=\"pull-left\" style=\"padding-right:5px\"; src=\""+suggestions.logo+"\"" + " />";
 		}
-		else imgCode ="<span style=\"padding-right:10px;\" class=\"glyphicon glyphicon-folder-open\" title=\"Category: "+item.label+"\"></span>";
+		else imgCode ="<span style=\"padding-right:10px;\" class=\"glyphicon glyphicon-folder-open\" title=\"Category: "+suggestions.name+"\"></span>";
 		<!-- End code to accomodate missing images from categories -->
 		
-		<!-- if (item.category == "Business") { -->
 		return $( "<li>" )
-		.attr( "data-value", item.value )
-		.append( "<div class=\"clearfix\"><a href=\""+item.url+"\">"+ imgCode+ item.label + "</a>"+"</div>" )
+		.attr( "data-value", suggestions.value )
+		.append( "<div class=\"clearfix\"><a href=\""+suggestions.link+"\">"+ imgCode+ suggestions.name + "</a>"+"</div>" )
 		.appendTo( ul );
-	  <!-- } -->
-	  <!-- else { -->
-	  <!-- console.log("caat"); -->
-	  <!-- } -->
-		
 	}
-	  
     });
-    var data = [
-      {
-        value: "jquery",
-        label: "jQuery",
-        desc: "the write less, do more, JavaScript library",
-        icon: "jquery_32x32.png",
-		url: "https://www.google.com.au/?query=test1",
-		category: "Business"
-      },
-      {
-        value: "jquery-ui",
-        label: "jQuery UI",
-        desc: "the official user interface library for jQuery",
-        icon: "jqueryui_32x32.png",
-		url: "https://www.google.com.au/?query=test2",
-		category: "Business"
-      },
-      {
-        value: "sizzlejs",
-        label: "Sizzle JS",
-        desc: "a pure-JavaScript CSS selector engine",
-        icon: "sizzlejs_32x32.png",
-		url: "https://www.google.com.au/?query=test3",
-		category: "Business"
-      },
-	  {
-        value: "Apples",
-        label: "Appy appy",
-        desc: "the write less, do more, JavaScript library",
-      
-		url: "https://www.google.com.au/?query=test1",
-		category: "Category"
-      },
-      {
-        value: "Banana",
-        label: "Banana nana",
-        desc: "The bananan page yeah yeah",
-      
-		url: "https://www.google.com.au/?query=test2",
-		category: "Category"
-      },
-      {
-        value: "Strawberry",
-        label: "Strawberry madness",
-        desc: "a pure-JavaScript CSS selector engine",
-    
-		url: "https://www.google.com.au/?query=test3",
-		category: "Category"
-      }
-    ];
 
-
-
-    $( "#search" ).catcomplete({
-      delay: 0,
-      source: data
-	//  source: "https://raw.githubusercontent.com/wfmyh/public/main/testSuggest.json"
+    $( "#dsearchform #query" ).catcomplete({
+		//delay: 0,
+		
+        source: function( request, response ) {
+			$.ajax( {
+			  minLength: 1, //default 1
+			  delay: 300, 	//default 300
+			  url: "https://raw.githubusercontent.com/wfmyh/public_b1/main/SearchSuggest_example_forEO.json",
+			  dataType: "json",
+			  data: {
+				dquery: request.term
+			  },
+			  success: function( data ) {
+				console.log(data); //testing only
+				response( data.suggestions );
+				console.log("Request Term is: " + request.term);	//testing only
+				console.log("Request Term is: " + this.url);		//testing only
+			  }
+			} );
+		}
     });
+	
   } );
-  </script>
+</script>
+<!-- Code to import into OMS END -->
+
+
+
 </head>
 <body>
- <h1>Working example of Categories and Custom data</h1>
+ <div width="500px">
+<!-- The below code is extracted from an OMS site. -->
  
- <p>
- Need to work on: <br>
- 1. Remove image for Categories: Done<br>
- 2. Using JSON file reference
- </p>
 
-<h3>Try the letters 'e' or 'r'</h3>
-<label for="search">Search: </label>
-<input id="search" size="50">
  
- 
+	 <form id="dsearchform" action="https://www.electronicsonline.net.au/directories/results" accept-charset="UTF-8" method="get" >
+		<div class="form-group">
+		<input size="50" type="text" name="query" id="query" value="" placeholder="Search" class="form-control pull-left">
+		<span class="input-group-btn pull-left">
+			<button class="btn btn-default red" type="submit">
+		<span class="glyphicon glyphicon-search">
+		<span class="sr-only">Search</span>
+		</span>
+		</button>
+		</span>
+	<div class="clearfix"></div>
+	<!-- start search tab navigation -->
+	<ul class="searchoptions nav nav-tabs" style="margin-left:0px; padding-left:0px">
+	<input id="options" name="options" type="hidden" value="Companies">
+	<li class="" id="companies">
+	<a href="https://www.electronicsonline.net.au/directories/companies?options=Companies">Companies</a>
+	</li>
+	<li id="categories">
+	<a href="https://www.electronicsonline.net.au/directories/categories?options=Categories">Categories</a>
+	</li>
+	<li id="brands">
+	<a href="https://www.electronicsonline.net.au/directories/brands?options=Brands">Brands</a>
+	</li>
+	<!-- end search tab navigation -->
+	</ul>
+	</div>
+	</form>
+	<!-- End OMS code -->
+	
+	
+ </div>
 </body>
 </html>
