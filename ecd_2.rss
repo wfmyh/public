@@ -3,6 +3,7 @@
   <channel>
     <title>ECD (Electrical+Comms+Data) RSS Feed</title>
     <description>http://ecdonline.com.au</description>
+    <ttl>5</ttl>    
     <link>http://ecdonline.com.au</link>
     <item>
       <title>Maintaining sparkie safety in a changing electrical landscape</title>
