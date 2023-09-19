@@ -3,7 +3,7 @@
   <channel>
     <title>ECD (Electrical+Comms+Data) RSS Feed</title>
     <description>http://ecdonline.com.au</description>
-    <ttl>5</ttl>    
+    <ttl>1</ttl>    
     <link>http://ecdonline.com.au</link>
     <item>
       <title>ECD 2 Maintaining sparkie safety in a changing electrical landscape</title>
@@ -104,7 +104,8 @@
 
 &lt;p&gt;13YARN is a free 24/7 service offering crisis support for Aboriginal &amp;amp; Torres Strait Islander people. Call 13YARN (13 92 76).&lt;/p&gt;
 
-&lt;p&gt;&lt;h9&gt;Image caption: R U OK? Community Ambassador Andre Sakr.&lt;/h9&gt;&lt;/p&gt;
+&lt;p&gt;&lt;h9&gt;Image caption: R U OK? Community Ambassador Andre Sakr.&lt; button goes here after this line/h9&gt;&lt;/p&gt;
+
 &lt;button type="button"&gt;Click Me!&lt;/button&gt;
 
 </description>
