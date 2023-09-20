@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
+<ttl>1</ttl>    
     <title>ECD (Electrical+Comms+Data) RSS Feed</title>
    <description>
 http://ecdonline.com.au 
