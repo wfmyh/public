@@ -1,0 +1,234 @@
+{
+    "directories": [
+        {
+            "id": 1106,
+            "name": "AMS Instrumentation & Calibration",
+            "key": "AMS-Instrumentation-Calibration-Pty-Ltd-1072",
+            "permalink": "ams-instrumentation-calibration-pty-ltd-1197383939",
+            "link": "/directories/ams-instrumentation-calibration-pty-ltd-1197383939",
+            "logo": "https://s3-ap-southeast-2.amazonaws.com/staging-oms/brochures/2469/pool_and_spa_logo/icp_formal_logo.jpg?1688363588"
+        },
+        {
+            "id": 4701,
+            "name": "AMS Instrumentation & Calibration Pty Ltd",
+            "key": "AMS-Instrumentation-Calibration-Pty-Ltd-4667",
+            "permalink": "ams-instrumentation-calibration-pty-ltd-1373704516",
+            "link": "/directories/ams-instrumentation-calibration-pty-ltd-1373704516",
+            "logo": "https://s3-ap-southeast-2.amazonaws.com/staging-oms/brochures/2469/pool_and_spa_logo/icp_formal_logo.jpg?1688363588"
+        },
+        {
+            "id": 2790,
+            "name": "AMS Instrumentation & Calibration Pty Ltd",
+            "key": "AMS-Instrumentation-Calibration-Pty-Ltd-2756",
+            "permalink": "ams-instrumentation-calibration-pty-ltd-508266937",
+            "link": "/directories/ams-instrumentation-calibration-pty-ltd-508266937",
+            "logo": "https://s3-ap-southeast-2.amazonaws.com/staging-oms/brochures/2469/pool_and_spa_logo/icp_formal_logo.jpg?1688363588"
+        },
+        {
+            "id": 1644,
+            "name": "AMS Instrumentation & Calibration Pty Ltd",
+            "key": "AMS-Instrumentation-Calibration-Pty-Ltd-1610",
+            "permalink": "ams-instrumentation-calibration-pty-ltd-1200300668",
+            "link": "/directories/ams-instrumentation-calibration-pty-ltd-1200300668",
+            "logo": "https://s3-ap-southeast-2.amazonaws.com/staging-oms/brochures/2469/pool_and_spa_logo/icp_formal_logo.jpg?1688363588"
+        },
+        {
+            "id": 535,
+            "name": "3M Australia Pty Ltd",
+            "key": "3M-Australia-Pty-Ltd-501",
+            "permalink": "3m-australia-pty-ltd-1247876455",
+            "link": "/directories/3m-australia-pty-ltd-1247876455",
+            "logo": "https://s3-ap-southeast-2.amazonaws.com/staging-oms/brochures/2469/pool_and_spa_logo/icp_formal_logo.jpg?1688363588"
+        },
+        {
+            "id": 3550,
+            "name": "3M Australia Pty Ltd Expired PREMIUM",
+            "key": "3M-Australia-Pty-Ltd-3516",
+            "permalink": "3m-australia-pty-ltd-1385004277",
+            "link": "/directories/3m-australia-pty-ltd-1385004277",
+            "logo": "https://s3-ap-southeast-2.amazonaws.com/staging-oms/brochures/2469/pool_and_spa_logo/icp_formal_logo.jpg?1688363588"
+        }
+    ],
+    "categories": [
+        {
+            "id": 3398,
+            "name": "Tuners, AM & FM",
+            "key": "tuners-am-fm",
+            "link": "/categories.tuners-am-fm-353414555"
+        },
+        {
+            "id": 948,
+            "name": "Tuners, AM & FM",
+            "key": "tuners-am-fm",
+            "link": "/categories.tuners-am-fm-909397792"
+        },
+        {
+            "id": 4985,
+            "name": "Tuners, AM & FM",
+            "key": "tuners-am-fm",
+            "link": "/categories.tuners-am-fm-22753466"
+        },
+        {
+            "id": 707,
+            "name": "Generators, AC",
+            "key": "generators-ac",
+            "link": "/categories.generators-ac-610968977"
+        },
+        {
+            "id": 6312,
+            "name": "Switches, Cam",
+            "key": "switches-cam",
+            "link": "/categories.switches-cam-1241173639"
+        },
+        {
+            "id": 5047,
+            "name": "Inverters, AC",
+            "key": "inverters-ac",
+            "link": "/categories.inverters-ac-774779695"
+        },
+        {
+            "id": 6514,
+            "name": "Filters, AF",
+            "key": "filters-af",
+            "link": "/categories.filters-af-588108543"
+        },
+        {
+            "id": 2634,
+            "name": "Software, APS",
+            "key": "software-aps",
+            "link": "/categories.software-aps-316067452"
+        },
+        {
+            "id": 2235,
+            "name": "Power Supplies, Converters, AC to AC",
+            "key": "power-supplies-converters-ac-to-ac",
+            "link": "/categories.power-supplies-converters-ac-to-ac-890607469"
+        },
+        {
+            "id": 4778,
+            "name": "Power Supplies, Converters, AC to AC",
+            "key": "power-supplies-converters-ac-to-ac",
+            "link": "/categories.power-supplies-converters-ac-to-ac-695233364"
+        },
+        {
+            "id": 1112,
+            "name": "Davit Arms, Safety",
+            "key": "davit-arms-safety",
+            "link": "/categories.davit-arms-safety-51124974"
+        },
+        {
+            "id": 1799,
+            "name": "Controllers, AC Motor",
+            "key": "controllers-ac-motor",
+            "link": "/categories.controllers-ac-motor-984497791"
+        },
+        {
+            "id": 2934,
+            "name": "Meters, FM Deviation",
+            "key": "meters-fm-deviation",
+            "link": "/categories.meters-fm-deviation-659712934"
+        },
+        {
+            "id": 5363,
+            "name": "Power Supplies, AC",
+            "key": "power-supplies-ac",
+            "link": "/categories.power-supplies-ac-489829521"
+        },
+        {
+            "id": 3678,
+            "name": "Power Supplies, AC-DC",
+            "key": "power-supplies-ac-dc",
+            "link": "/categories.power-supplies-ac-dc-1130911118"
+        },
+        {
+            "id": 2566,
+            "name": "Motors, AC Single Phase",
+            "key": "motors-ac-single-phase",
+            "link": "/categories.motors-ac-single-phase-1032167525"
+        },
+        {
+            "id": 926,
+            "name": "Ham & Bacon Equipment",
+            "key": "ham-bacon-equipment",
+            "link": "/categories.ham-bacon-equipment-975185933"
+        },
+        {
+            "id": 1607,
+            "name": "Power Supply, AC",
+            "key": "power-supply-ac",
+            "link": "/categories.power-supply-ac-1230714976"
+        },
+        {
+            "id": 6609,
+            "name": "Motors, AC/DC",
+            "key": "motors-ac-dc",
+            "link": "/categories.motors-ac-dc-1243755084"
+        },
+        {
+            "id": 6835,
+            "name": "Power Supplies, AC",
+            "key": "power-supplies-ac",
+            "link": "/categories.power-supplies-ac-741066145"
+        },
+        {
+            "id": 4379,
+            "name": "Drives, AC & DC",
+            "key": "drives-ac-dc",
+            "link": "/categories.drives-ac-dc-586644917"
+        },
+        {
+            "id": 1262,
+            "name": "Pipes & Fittings, ABS",
+            "key": "pipes-fittings-abs",
+            "link": "/categories.pipes-fittings-abs-821517836"
+        },
+        {
+            "id": 1359,
+            "name": "Power Supplies, AC-DC",
+            "key": "power-supplies-ac-dc",
+            "link": "/categories.power-supplies-ac-dc-758364163"
+        },
+        {
+            "id": 1612,
+            "name": "Motors, AC Three Phase",
+            "key": "motors-ac-three-phase",
+            "link": "/categories.motors-ac-three-phase-815671416"
+        },
+        {
+            "id": 1120,
+            "name": "Diodes, High Current (>2 amps)",
+            "key": "diodes-high-current-2-amps-",
+            "link": "/categories.diodes-high-current-2-amps--186825863"
+        },
+        {
+            "id": 6007,
+            "name": "Diodes, High Current (>2 amps)",
+            "key": "diodes-high-current-2-amps-",
+            "link": "/categories.diodes-high-current-2-amps--1263586187"
+        },
+        {
+            "id": 6119,
+            "name": "Power Supplies, Converters, AC to DC",
+            "key": "power-supplies-converters-ac-to-dc",
+            "link": "/categories.power-supplies-converters-ac-to-dc-353818651"
+        },
+        {
+            "id": 3682,
+            "name": "Power Supplies, Converters, AC to DC",
+            "key": "power-supplies-converters-ac-to-dc",
+            "link": "/categories.power-supplies-converters-ac-to-dc-1083796959"
+        },
+        {
+            "id": 5945,
+            "name": "Power Supplies, Converters, DC to AC",
+            "key": "power-supplies-converters-dc-to-ac",
+            "link": "/categories.power-supplies-converters-dc-to-ac-967260979"
+        },
+        {
+            "id": 1035,
+            "name": "Suppressors, AC Line Transient Surge",
+            "key": "suppressors-ac-line-transient-surge",
+            "link": "/categories.suppressors-ac-line-transient-surge-964420338"
+        }
+    ]
+}
