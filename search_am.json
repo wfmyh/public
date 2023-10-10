@@ -1,2 +1,93 @@
-
-{"directories":[{"id":1106,"name":"AMS Instrumentation \u0026 Calibration","key":"AMS-Instrumentation-Calibration-Pty-Ltd-1072","permalink":"ams-instrumentation-calibration-pty-ltd-1197383939","link":"/directories/ams-instrumentation-calibration-pty-ltd-1197383939"}],"categories":[{"id":707,"name":"Generators, AC","key":"generators-ac","link":"/categories.generators-ac-610968977"},{"id":6312,"name":"Switches, Cam","key":"switches-cam","link":"/categories.switches-cam-1241173639"},{"id":5047,"name":"Inverters, AC","key":"inverters-ac","link":"/categories.inverters-ac-774779695"},{"id":2634,"name":"Software, APS","key":"software-aps","link":"/categories.software-aps-316067452"},{"id":2566,"name":"Motors, AC Single Phase","key":"motors-ac-single-phase","link":"/categories.motors-ac-single-phase-1032167525"},{"id":1607,"name":"Power Supply, AC","key":"power-supply-ac","link":"/categories.power-supply-ac-1230714976"},{"id":6609,"name":"Motors, AC/DC","key":"motors-ac-dc","link":"/categories.motors-ac-dc-1243755084"},{"id":1262,"name":"Pipes \u0026 Fittings, ABS","key":"pipes-fittings-abs","link":"/categories.pipes-fittings-abs-821517836"},{"id":1612,"name":"Motors, AC Three Phase","key":"motors-ac-three-phase","link":"/categories.motors-ac-three-phase-815671416"}]}
+{
+"directories":[
+{
+	"id":919,
+	"value":"W\u0026B Instruments Pty Ltd",
+	"label":"W\u0026B Instruments Pty Ltd",
+	"key":"W-B-Instruments-Pty-Ltd-885",
+	"permalink":"w-b-instruments-pty-ltd-1400711159",
+	"link":"/directories/w-b-instruments-pty-ltd-1400711159",
+	"logo":"https://s3-ap-southeast-2.amazonaws.com/staging-oms/brochures/919/original/W__B_LOGO_crop.jpg?1689575363"}
+,
+{
+	"id":4879,
+	"value":"SICK",
+	"label":"SICK",
+	"key":"SICK-PTY-LTD-4845",
+	"permalink":"sick-pty-ltd-1025457117",
+	"link":"/directories/sick-pty-ltd-1025457117",
+	"logo":"https://s3-ap-southeast-2.amazonaws.com/staging-oms/brochures/4879/original/SICK_Logo_Claim_new_new.jpg?1687757676"}
+,
+{
+	"id":1534,
+	"value":"HYDAC",
+	"label":"HYDAC",
+	"key":"HYDAC-International-1500",
+	"permalink":"hydac-international-206871591",
+	"link":"/directories/hydac-international-206871591",
+	"logo":"https://s3-ap-southeast-2.amazonaws.com/staging-oms/brochures/1534/original/Hydac.jpg?1696906547"}
+],
+"categories":[
+{
+	"id":6609,
+	"value":"Motors, AC/DC",
+	"label":"Motors, AC/DC",
+	"key":"motors-ac-dc",
+	"link":"/categories/motors-ac-dc-1243755084"}
+,
+{
+	"id":707,
+	"value":"Generators, AC",
+	"label":"Generators, AC",
+	"key":"generators-ac",
+	"link":"/categories/generators-ac-610968977"}
+,
+{
+	"id":989,
+	"value":"Generators, DC",
+	"label":"Generators, DC",
+	"key":"generators-dc",
+	"link":"/categories/generators-dc-196717632"}
+,
+{
+	"id":437,
+	"value":"Motors, DC",
+	"label":"Motors, DC",
+	"key":"motors-dc",
+	"link":"/categories/motors-dc-869171098"}
+,
+{
+	"id":5047,
+	"value":"Inverters, AC",
+	"label":"Inverters, AC",
+	"key":"inverters-ac",
+	"link":"/categories/inverters-ac-774779695"}
+,
+{
+	"id":1607,
+	"value":"Power Supply, AC",
+	"label":"Power Supply, AC",
+	"key":"power-supply-ac",
+	"link":"/categories/power-supply-ac-1230714976"}
+,
+{
+	"id":6560,
+	"value":"Power Supply, DC",
+	"label":"Power Supply, DC",
+	"key":"power-supply-dc",
+	"link":"/categories/power-supply-dc-1221522945"}
+,
+{
+	"id":2566,
+	"value":"Motors, AC Single Phase",
+	"label":"Motors, AC Single Phase",
+	"key":"motors-ac-single-phase",
+	"link":"/categories/motors-ac-single-phase-1032167525"}
+,
+{
+	"id":1612,
+	"value":"Motors, AC Three Phase",
+	"label":"Motors, AC Three Phase",
+	"key":"motors-ac-three-phase",
+	"link":"/categories/motors-ac-three-phase-815671416"}
+]}
