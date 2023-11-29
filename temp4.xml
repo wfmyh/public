@@ -1,581 +1,391 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>ECD (Electrical+Comms+Data) RSS Feed</title>
-    <description>https://ecdonline.com.au</description>
-    <link>https://ecdonline.com.au</link>
+    <title>ElectronicsOnline RSS Feed</title>
+    <description>ElectronicsOnline provides the latest news, updates, product developments for professionals in the industry.</description>
+    <link>https://www.electronicsonline.net.au?utm_source=rss</link>
     <item>
-      <title>WWWWddsWWBT YellowDuct: An Australian-Made Solution for Managing, Routing and Protecting Optical Fibre Cords</title>
-      <description>&lt;img class="img-responsive" src="https://d1v1e13ebw3o15.cloudfront.net/data/79178/pool_and_spa_logo/..jpg"  style="display: block; margin: auto" &gt;   &lt;p&gt;In today’s fast-paced digital landscape, the demand for efficient and reliable data management and telecommunications infrastructure is at an all-time high. Managing and safeguarding optical fibre cords is a critical aspect of maintaining a seamless flow of data in various industries, including telecommunications exchanges, data centres, universities, hospitals, and more. That’s where WBT YellowDuct comes into play, offering an Australian-made solution that’s robust, versatile, and built to last.&lt;/p&gt;
-
-&lt;p&gt;Warren &amp;amp; Brown’s optical fibre ducting raceway, known as WBT YellowDuct, is a game-changer for those seeking a dependable system to manage, route and protect optical fibre cords within their facilities. This innovative solution is designed to ensure the utmost precision and efficiency, keeping your data centre or telecommunications infrastructure in optimal working condition.&lt;/p&gt;
-
-&lt;p&gt;Warren &amp;amp; Brown’s YellowDuct system is more than just a simple ducting solution; it’s a comprehensive approach to optical fibre cable management. Here’s why it’s making waves in the industry:&lt;/p&gt;
-
-&lt;p&gt;WBT YellowDuct is built to adapt and grow with your infrastructure. It’s the ideal choice for ensuring that your data centre remains future-proof. As technology advances, the flexibility of YellowDuct ensures that your cable management solution evolves in tandem.&lt;/p&gt;
-
-&lt;p&gt;Unlike some competitors in the market who use PVC, WBT YellowDuct is constructed with a special fire-retardant Low Smoke Zero Halogen (LSZH) material certified to UL94V-0 specifications. This feature is critical for safety, as LSZH materials significantly reduce toxic and corrosive gas emissions in case of a fire, minimising harm to personnel, buildings and transmission equipment.&lt;/p&gt;
-
-&lt;p&gt;Warren &amp;amp; Brown’s ducting raceway comprehensively covers all aspects of fibre cable management, including bend radius protection, cable access and routing, and physical protection. It’s a one-stop solution for safeguarding your optical fibre cords.&lt;/p&gt;
-
-&lt;p&gt;YellowDuct is available in three distinct colours and seven sizes, making it easy to select the perfect fit for your facility. This diverse range includes solid wall and slotted wall options for exiting fibres. The most recent addition to the lineup is the 600 x 100 ducting raceway system, providing a maximum capacity of up to 7500 two-millimetre patch cords based on a 50% fill rate. And if your facility requires a customised solution, YellowDuct can be designed to meet your specific needs.&lt;/p&gt;
-
-&lt;p&gt;Installation is a breeze with YellowDuct. Components can be joined together using two methods: slotted joiners or slotless joiners. Slotted joiners require a slotting tool only when duct length needs modification, while slotless joiners don’t require additional tools or slots, making installation quick and easy with just a screwdriver.&lt;/p&gt;
-
-&lt;p&gt;YellowDuct components are manufactured from Noryl, a robust engineering plastic that is self-extinguishing and halogen-free. This feature ensures that in the event of a fire, gases emitted will not pose harm to personnel, buildings, or transmission equipment.&lt;/p&gt;
-
-&lt;p&gt;Warren &amp;amp; Brown’s commitment to quality is evident in their ISO9001 certification. YellowDuct products comply with stringent standards, including the UL2024A standard, EEU-ROHS requirements, and GR-63 Core Earthquake test compliance. Moreover, they come with a 10-year warranty, offering peace of mind to those who invest in this exceptional system.&lt;/p&gt;
-
-&lt;p&gt;WBT YellowDuct is proudly manufactured in Australia, offering unrivalled local stock availability and an extensive product range to ensure your project stays on track, both in terms of time and budget. With local support and the backing of a globally recognised brand, you can trust in the reliability and performance of WBT YellowDuct for all your optical fibre cable management needs.&lt;/p&gt;
-
-&lt;p&gt;For more information and to discover how WBT YellowDuct can revolutionise your data centre or telecommunications infrastructure, visit: &lt;a href="https://wbnetworks.com.au/resources-ducting-raceway" target="_blank"&gt;https://wbnetworks.com.au/resources-ducting-raceway&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;When it comes to managing, routing, and protecting optical fibre cords, choose the Australian-made solution that sets the standard for quality and innovation!&lt;/p&gt;
-</description>
-      <pubDate>Wed, 01 Nov 2023 00:00:00 +1100</pubDate>
-      <link>https://www.ecdonline.com.au/content/data-networking-communications/sponsored/wbt-yellowduct-an-australian-made-solution-for-managing-routing-and-protecting-optical-fibre-cords-213493967</link>
-      <guid isPermaLink="true">https://www.ecdonline.com.au/content/data-networking-communications/sponsored/wbt-yellowduct-an-australian-made-solution-for-managing-routing-and-protecting-optical-fibre-cords-213493967</guid>
+      <title>Test EO hot product</title>
+      &lt;img class="img-responsive" src="https://d1v1e13ebw3o15.cloudfront.net/data/80029/pool_and_spa_logo/..jpg"&gt; &lt;p&gt;
+	Advantech, a global embedded computing leader, has released a pair of SQFlash PCIe Gen.4 SSD solutions: the SQF 930 and SQF ER-1.
+&lt;/p&gt;
+&lt;p&gt;
+	The Advantech SQF 930 and ER-1 series are designed with PCIe Gen. 4 specifications, delivering double data streaming performance when compared with Gen. 3 solutions. In addition, these solutions are also available in M.2 2280 and U.2 (SFF-8639) sizes to accommodate diverse requirements. In order to fulfil various industrial applications, SQFlash provides different types of general, read-intensive and mixed-use options that enable edge storage devices to keep up with multiple, diverse real-time streaming data sources. In addition, the SQF 930 and ER-1 series support three Drive Writes per Day (DWPD) and one DWPD level to meet different industrial requirements. These also support wide temperature capabilities (-40 – 85°C) for mission-critical applications. The Advantech ER-1 series is built with low power consumption credentials that meet modern ESG high-power and low-carbon expectations.
+&lt;/p&gt;
+&lt;p&gt;
+	The series adopts thermal glue with mechanical flexibility to avoid the risk of physical damage to SSD components during sudden temperature changes. The combination of thermal throttling design and real-time I/O adjustment is designed to balance temperature and performance.
+&lt;/p&gt;
+&lt;p&gt;
+	The adoption of IoT has led to rising inter-connectivity and increased security concerns. Accordingly, the series meets these challenges by protecting data stored on the SQFlash SSD. This is achieved by providing support for real-time monitoring and using a complete security solution at the SSD firmware level.
+&lt;/p&gt;
+&lt;p&gt;
+	For more information, click &lt;a href="https://www.advantech.com/en-au/products/3afee29a-d85f-4032-a98e-669bf3d6b036/sqf-c8m-930/mod_33075a8b-a5e1-4726-99c9-97e220ebed76?utm_source=WWF_EO&amp;amp;utm_medium=Hot_Product&amp;amp;utm_campaign=WWF_EO_HP_Oct_SQFlash" target="_blank"&gt;here&lt;/a&gt;.
+&lt;/p&gt;</description>
+      <pubDate>Mon, 29 May 2023 13:11:00 +1000</pubDate>
+      <link>https://www.electronicsonline.net.au/content/assembly/hot-product/test-eo-hot-product-468819759?utm_source=rss</link>
+      <guid isPermaLink="true">https://www.electronicsonline.net.au/content/assembly/hot-product/test-eo-hot-product-468819759?utm_source=rss</guid>
     </item>
     <item>
-      <title>Hammond Electronics UL94-V0 ABS IP54 1556 enclosures</title>
-      <description>&lt;img class="img-responsive" src="https://d1v1e13ebw3o15.cloudfront.net/data/79261/pool_and_spa_logo/..jpg"  style="display: block; margin: auto" &gt;   &lt;p&gt;The flame-retardant UL94-V0 ABS IP54 1556 family of enclosures is inspired by the IP68 polycarbonate 1557 series. It features the same modern rounded corners and top face styling and introduces rectangular versions to complement the square formats derived from the 1557 series. IP54 sealed for general-purpose indoor use, the ABS material gives a lower price point than the polycarbonate used in the 1557, which is designed for installation outdoors and in aggressive environments. Self-tapping screws secure the lid to the base, for applications where repeated access is not required. There are multiple PCB mounting standoffs in both the lid and the base.&lt;/p&gt;
-
-&lt;p&gt;There are four square sizes from 80 x 80 to 200 x 200 mm and three rectangular ones from 120 x 80 to 200 x 160 mm. All are available in black, RAL 7035 grey and white and there are two heights: 45 and 60 mm for the smallest size and 45 and 70 mm for the larger ones. The enclosure is suitable for desktops when fitted with the supplied feet; it can also be wall-mounted with four visible brackets or two hidden ones. Also available as an option are 2-mm-thick aluminium internal panels.&lt;/p&gt;
-</description>
-      <pubDate>Wed, 01 Nov 2023 00:00:00 +1100</pubDate>
-      <link>https://www.ecdonline.com.au/content/electrical-distribution/hot-product/hammond-electronics-ul94-v0-abs-ip54-1556-enclosures-1685410789</link>
-      <guid isPermaLink="true">https://www.ecdonline.com.au/content/electrical-distribution/hot-product/hammond-electronics-ul94-v0-abs-ip54-1556-enclosures-1685410789</guid>
+      <title>Test duplicate URL for Canonical Links</title>
+      &lt;img class="img-responsive" src="https://d1v1e13ebw3o15.cloudfront.net/data/80029/pool_and_spa_logo/..jpg"&gt; &lt;p&gt;
+	  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget eros ligula. Donec ac quam quis orci rhoncus aliquet. Praesent faucibus felis sapien, in tempor mi ullamcorper sit amet. Nunc aliquet, libero id feugiat ultrices, massa tellus dignissim massa, quis volutpat augue dolor in ante. Fusce vitae dictum massa. Pellentesque venenatis enim quis rhoncus sagittis. Nullam non purus non orci posuere imperdiet. Mauris blandit ut odio et finibus. Curabitur vehicula ultricies magna feugiat gravida. Aliquam ac lacus luctus, bibendum massa eu, sagittis ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus id mi feugiat, eleifend lacus quis, mattis augue. Ut blandit nunc a vulputate viverra. Ut pellentesque, leo non tincidunt fermentum, augue augue condimentum dolor, sit amet dictum velit augue vitae lorem. Fusce viverra aliquet lacus at posuere.
+&lt;/p&gt;</description>
+      <pubDate>Thu, 20 Apr 2023 12:27:00 +1000</pubDate>
+      <link>https://www.electronicsonline.net.au/content/assembly/sponsored/test-duplicate-url-for-canonical-links-7142131?utm_source=rss</link>
+      <guid isPermaLink="true">https://www.electronicsonline.net.au/content/assembly/sponsored/test-duplicate-url-for-canonical-links-7142131?utm_source=rss</guid>
     </item>
     <item>
-      <title>How can you improve your dataasdfsd center's energy efficiency and reliability?</title>
-      <description>&lt;img class="img-responsive" src="https://d1v1e13ebw3o15.cloudfront.net/data/79327/pool_and_spa_logo/..jpg"  style="display: block; margin: auto" &gt;   &lt;p&gt;&lt;em&gt;With over seven million data centers around the world consuming roughly 2% of global energy demand, anything that can increase their energy efficiency will have a big impact. On average, cooling and air conditioning account for 40% of a data center’s energy consumption — making accurate heating, ventilation, and air conditioning (HVAC) measurements critical to optimizing energy use. So how do high-quality HVAC sensors save energy and improve reliability in data centers?&lt;/em&gt;&lt;/p&gt;
+      <title>The use of Nichicon SLB rechargeable batteries in IoT applications</title>
+      &lt;img class="img-responsive" src="https://d1v1e13ebw3o15.cloudfront.net/data/80029/pool_and_spa_logo/..jpg"&gt; &lt;p&gt;The Internet of Things, i.e. IoT technologies, have been with us for years. Although many beneficiaries of these devices may not realise it, they owe much convenience to small, energy-efficient devices that perform complex measurements and calculations in our everyday surroundings. They allow to &lt;strong&gt;gather accurate data about traffic, weather, air quality in cities, our health — they improve forwarding of courier shipments, warehouse order collection, road, rail and even air transport — what’s more, they make our homes and workplaces safer&lt;/strong&gt;. And it’s all before we even get to the convenience offered by &lt;em&gt;smart&lt;/em&gt; devices: &lt;strong&gt;activity sensors, household automation, etc&lt;/strong&gt;. At the heart of all these technologies are energy-efficient wireless communication modules, based on BLE or LoRa modules, powered by &lt;strong&gt;miniaturised, yet efficient, energy sources&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;h4&gt;Increasing demand for data centers&lt;/h4&gt;
+&lt;p&gt;Today, a technological revolution is taking place in the field of mobile power supply. Until recently, the main obstacle on the way to progress was not the capacity of integrated circuits, but techniques for supplying them with sufficient energy. Among the most modern methods of energy storage, those that stand out are the miniature solutions which are used in remote sensors or personal &lt;em&gt;wearable&lt;/em&gt; devices. There are hundreds of products available on the global market dedicated to such applications, but &lt;strong&gt;only a few of them match the performance standard offered by the lithium-ion batteries from &lt;a href="https://www.tme.eu/no/en/linecard/p,nichicon_932/" target="_blank"&gt;Nichicon&lt;/a&gt;, included in the SLB series&lt;/strong&gt;. They are based on Toshiba’s proprietary &lt;strong&gt;SCiB&lt;sup&gt;™&lt;/sup&gt; technology&lt;/strong&gt; — used primarily for high-current energy storage. In a miniaturised form supplied by Nichicon, they maintain their &lt;strong&gt;excellent electrical performance, but are enclosed in packages whose size does not exceed that of a tiny electrolytic capacitor&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;The demand for data centers is only set to increase thanks to processing-hungry applications like virtual reality, AI, and machine learning. In addition, there is a shift towards cloud computing as well as increased demand for edge data centers located near end users to reduce latency.&lt;/p&gt;
+&lt;p&gt;The Japanese supplier, specialist in the construction of components for power supply and amplification systems, has introduced the SLB series to its range of products to cater for the needs of producers of portable devices, industrial sensors, as well as consumer goods. These batteries allow to maximise the efficiency of energy storage in small systems powered traditionally or with the use of &lt;em&gt;energy harvesting&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;During the past decade, we have also seen the “hyperscale shift” toward large, business-critical data centers typically associated with big-data companies like Google and Amazon. While still a small percentage of the total, hyperscale data centers have increased their relative market share.&lt;/p&gt;
+&lt;h4&gt;Technological advantages of Nichicon SLB rechargeable batteries&lt;/h4&gt;
 
-&lt;p&gt;All of this means that energy consumption will increase as more data centers are brought online and current ones expand. According to estimates in a &lt;strong&gt;&lt;a href="https://www.mdpi.com/2078-1547/6/1/117" target="_blank"&gt;study by Huawei Technologies&lt;/a&gt;&lt;/strong&gt;, the global energy consumption of IT will likely triple by 2030 compared to current levels, meaning there is a pressing need to increase data centers’ energy efficiency.&lt;/p&gt;
+&lt;p&gt;Before we focus on the possibilities that SLB rechargeable batteries offer, let’s look at their characteristics. In comparison with standard solutions, for example with the average 18650 cell, Nichicon products stand out in virtually every field. They are designed to meet &lt;strong&gt;high demands not only in terms of dimensions, but also in terms of electrical performance and physical endurance&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;h4&gt;The need to become more energy efficient&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Long cycle life and safety&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;The most common metric used to measure the energy efficiency of data centers is Power Usage Effectiveness (PUE), which is defined as the ratio of the total energy used in the data center and the energy used by IT equipment only.&lt;/p&gt;
+&lt;p&gt;SLB cells offer a &lt;strong&gt;service life of 25,000 charge/discharge cycles&lt;/strong&gt;. Thanks to this, they can be used in circuits to which external energy is supplied irregularly, periodically or even sporadically. For example, these may be devices that use photovoltaic panels or miniature wind turbines, or consumer products that are charged only when it is convenient for the user. Recharging the battery repeatedly during the day (e.g. due to cloud cover or changing winds) will not significantly &lt;strong&gt;affect&lt;/strong&gt; the energy storage capabilities of SLB cells.&lt;/p&gt;
 
-&lt;p&gt;In the best-case scenario, PUE should be 1. This means that all energy is spent on IT equipment and the supporting infrastructure does not consume anything. In reality, the typical PUE in traditional data centers is around 2, and in hyper-scale sites around 1.2. In 2020, the global average PUE was about 1.6, which means that almost 40% of the energy used in data centers is consumed by non-IT systems.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Charge and discharge current&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h4&gt;The critical role of cooling and measurement&lt;/h4&gt;
+&lt;p&gt;The current capabilities of Nichicon batteries are noteworthy. Their charge/discharge current reaches the &lt;strong&gt;20C rating&lt;/strong&gt;, i.e. 20 times the battery capacity divided by 1 hour. This means that for the &lt;a href="https://www.tme.eu/no/en/details/slb12400l1511cv/akumulatory/nichicon/" target="_blank"&gt;SLB12400L1511CV&lt;/a&gt; (150mAh) model, the current supplied and consumed can be as much as 150 mA * 20 = 3 A. With such parameters of charging, full charging of the cell &lt;strong&gt;will be achieved after just 3 minutes&lt;/strong&gt;. Conversely, the battery &lt;strong&gt;can deliver high current in a short period of time, e.g. to switch on a light/alarm, send a message using a long range radio module&lt;/strong&gt; etc. In combination with the long cycle life, this opens way to the construction of devices which will be: (a) &lt;strong&gt;charged only periodically&lt;/strong&gt; (during maintenance, when reading the meter value), using the accumulated energy sparingly on a daily basis; (b) or also &lt;strong&gt;charged gradually&lt;/strong&gt;, e.g. with a small solar cell, but under certain conditions &lt;strong&gt;capable of activating not only electronic circuits, but also electromechanical components such as servos, solenoid valves&lt;/strong&gt; etc.&lt;/p&gt;
 
-&lt;p&gt;Cooling and air conditioning account for the majority of non-IT energy consumption in data centers, and cooling costs alone can easily represent 25% or more of total energy expense. This is because server racks generate a lot of excess heat which needs to be removed.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Resistance to environmental conditions&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Read more: &lt;strong&gt;&lt;a href="https://www.vaisala.com/en/expert-article/taking-heat-out-data-center" target="_blank"&gt;Taking the heat out of data center energy costs&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;As we have already suggested, many of the applications in which the SLB series cells are and will be used involve harsh environmental conditions. This includes r&lt;strong&gt;emote sensors used in agriculture as well as &lt;em&gt;wearable&lt;/em&gt; consumer devices, i.e. body-worn electronics such as medical wristbands, location tags or&lt;/strong&gt; &lt;em&gt;smart watches&lt;/em&gt;. Therefore, a particularly important characteristic of lithium-ion rechargeable batteries by Nichicon is their thermal tolerance. These products can &lt;strong&gt;operate without any difficulty in temperatures ranging from -30 to 60°C&lt;/strong&gt;. Furthermore, even when these parameters are exceeded, there is a &lt;strong&gt;very low probability of failure, spontaneous ignition or explosion&lt;/strong&gt;. This will be a particularly important feature for manufacturers of consumer appliances.&lt;/p&gt;
 
-&lt;p&gt;Cooling can be optimized with good design and, crucially, accurate HVAC measurements. If temperature readings are too high, it can lead to overcooling, and consequently, to excessive energy consumption; if the temperature readings are too low, it can lead to undercooling, which increases the risk of unplanned server downtime. Even a 1 °C measurement error can increase energy costs by millions of euros over a period of 10 years.&lt;/p&gt;
+&lt;h4&gt;
+&lt;em&gt;Energy harvesting&lt;/em&gt; – it’s time to fulfil Tesla’s dream&lt;/h4&gt;
 
-&lt;h4&gt;Data centers and sensors&lt;/h4&gt;
+&lt;p&gt;One of the most popular stories about the beginnings of electronics is Nikola Tesla’s project: a large-scale network that would aim to distribute electricity wirelessly. Although the project never made it outside the demo prototypes’ phase, which we would call &lt;em&gt;proof of concept&lt;/em&gt; today, modern technology to some extent legitimises the Serbian inventor’s concept. Here, in the era of energy-sufficient IoT (&lt;em&gt;Internet of Things&lt;/em&gt;) circuits, the construction of devices powered “out of thin air” no longer seems like a pipe dream.&lt;/p&gt;
 
-&lt;p&gt;With critical data worth billions of dollars processed and stored in a data center, power-hungry servers must always be maintained at an ideal temperature and humidity to prevent downtime.&lt;/p&gt;
+&lt;p&gt;Technologies grouped under the term &lt;em&gt;energy harvesting&lt;/em&gt; include a range of methods for extracting small amounts of energy from the environment. These include “classic” solutions such as &lt;strong&gt;photovoltaic cells and wind turbines&lt;/strong&gt;, but also less conventional techniques. In addition to movement caused by atmospheric phenomena, energy can actually come from &lt;strong&gt;any flow of gases and liquids, such as in water pipes, sewage pipes, as well as near roads or in air conditioning ducts&lt;/strong&gt;. Piezoelectric materials are also used to aggregate energy, whereby &lt;strong&gt;voltage is generated by varying pressure&lt;/strong&gt; (e.g. on pavements or roads). As IoT technology is developing, we are observing the growing use of &lt;strong&gt;thermoelectric sources based on the Peltier effect, allowing the use of temperature differences (e.g. between the atmosphere and a thermal source, a warm water supply or even the human body&lt;/strong&gt; to generate small electrical currents. These will not provide very much, but sufficient power for e.g. &lt;strong&gt;BLE modules&lt;/strong&gt;. And finally, the method that is closest to Tesla’s idea should be mentioned here: &lt;strong&gt;RF energy harvesting&lt;/strong&gt;. &lt;em&gt;RF harvesting&lt;/em&gt; uses ubiquitous radio signals (Wi-Fi, TV and even satellite signals) as its source of power.&lt;/p&gt;
 
-&lt;p&gt;Doing so requires several types of measurements to be made using different sensors in different locations, including:&lt;/p&gt;
+&lt;p&gt;The SLB rechargeable batteries from Nichicon provide performance parameters that are perfectly suited to the needs of devices using the &lt;em&gt;energy harvesting&lt;/em&gt; technology. Since they can be charged with very high, but also very low currents (for &lt;a href="https://www.tme.eu/no/en/details/slb03070lr351bs/akumulatory/nichicon/" target="_blank"&gt;SLB03070LR351BS&lt;/a&gt; model it is 3.5µA), they can be implemented in circuits using the above-mentioned solutions. This means the construction of a completely new type of electronic devices — self-sufficient solutions. As a further consequence, it means &lt;strong&gt;huge savings&lt;/strong&gt; connected with the limited needs for construction of power supply infrastructure and maintenance, as well as &lt;strong&gt;possibility to construct scalable and complex networks both in industry&lt;/strong&gt; (e.g. commerce, warehousing, shipping) and &lt;strong&gt;public space&lt;/strong&gt; (traffic management systems, public transport, meteorological, seismic sensor networks etc.). &lt;em&gt;Beacons&lt;/em&gt; or environmental sensors powered by SLB cells from Nichicon (charged used commonly available energy sources) are &lt;strong&gt;another step towards a computerised, safe and environmentally friendly future&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;ul&gt;
-	&lt;li&gt;data halls and server rooms for measurement of the temperature of hot/cold aisles&lt;/li&gt;
-	&lt;li&gt;ventilation systems to measure duct temperature, humidity, and differential pressure&lt;/li&gt;
-	&lt;li&gt;cooling systems to measure the immersion temperature and differential pressure&lt;br&gt;
-	 &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;High-quality sensors are the key to efficiently controlling HVAC processes and ensuring stable indoor environments. The sensors that offer the best overall lifetime value are those that are accurate, provide stable long-term measurements, and are easy to maintain.&lt;/p&gt;
-
-&lt;p&gt;Read more: &lt;strong&gt;&lt;a href="https://www.vaisala.com/en/blog/2023-01/sensor-requirements-data-centers" target="_blank"&gt;The sensor requirements of data centers&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h4&gt;What to consider when choosing sensors&lt;/h4&gt;
-
-&lt;p&gt;There are many factors to consider when choosing sensors for a data center, including:&lt;/p&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;Is the solution flexible and does it allow for changes and expansion as the data center grows and changes in response to business needs?&lt;/li&gt;
-	&lt;li&gt;Can the products be easily exchanged or upgraded when needed?&lt;/li&gt;
-	&lt;li&gt;Are they quick and easy to install?&lt;/li&gt;
-	&lt;li&gt;How easy are they to calibrate and maintain, and is support available from the instrument provider?&lt;br&gt;
-	 &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Instruments with exchangeable measurement probes or modules can be changed quickly without disturbing the measurement process. Traceable calibration certificates are important as they indicate a sensor was in perfect shape when it left the factory. It’s also an advantage if you’re able to do field-checking, calibrations, tuning, and adjustments easily on-site with tools provided by the instrument provider.&lt;/p&gt;
-
-&lt;h4&gt;Investing in quality is a sensible choice&lt;/h4&gt;
-
-&lt;p&gt;From both a reliability and cost perspective, high-quality HVAC sensors offer excellent value. The investment is modest in comparison with the benefits that accurate measurements can provide in the form of precise controls, improved energy efficiency, and as-designed indoor conditions. Want to learn more about how to reduce cooling energy costs through higher measurement accuracy? Download a &lt;strong&gt;&lt;a href="https://www.vaisala.com/en/lp/how-reduce-data-center-cooling-energy-consumption-insiders-guide" target="_blank"&gt;free insider’s guide&lt;/a&gt;&lt;/strong&gt; to get the best tips on cutting data center cooling energy consumption with accurate measurements.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://www.vaisala.com/en/lp/how-reduce-data-center-cooling-energy-consumption-insiders-guide" target="_blank"&gt;GET THE FREE EGUIDE ON HOW TO CUT COOLING COSTS&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;h9&gt;Image credit: iStock.com/alengo&lt;/h9&gt;&lt;/p&gt;
 </description>
-      <pubDate>Wed, 01 Nov 2023 00:00:00 +1100</pubDate>
-      <link>https://www.ecdonline.com.au/content/data-networking-communications/sponsored/how-can-you-improve-your-data-center-s-energy-efficiency-and-reliability--1243242384</link>
-      <guid isPermaLink="true">https://www.ecdonline.com.au/content/data-networking-communications/sponsored/how-can-you-improve-your-data-center-s-energy-efficiency-and-reliability--1243242384</guid>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +1100</pubDate>
+      <link>https://www.electronicsonline.net.au/content/power/sponsored/the-use-of-nichicon-slb-rechargeable-batteries-in-iot-applications-347021817?utm_source=rss</link>
+      <guid isPermaLink="true">https://www.electronicsonline.net.au/content/power/sponsored/the-use-of-nichicon-slb-rechargeable-batteries-in-iot-applications-347021817?utm_source=rss</guid>
     </item>
     <item>
-      <title>LAPP orange tinned copper Switchboard Flex cables</title>
-      <description>&lt;img class="img-responsive" src="https://d1v1e13ebw3o15.cloudfront.net/data/79387/pool_and_spa_logo/..jpg"  style="display: block; margin: auto" &gt;   &lt;p&gt;LAPP Australia’s locally stocked range of orange tinned copper Switchboard Flex cables is designed to meet Australian standards for use in switchboard applications. The cables are suitable for switchboards and transformers, mains power distribution, burial in underground ducts or conduit, and other industrial applications. These low smoke zero halogen (LSZH) cables are designed for harsh Australian conditions. They are ultra-flexible with class 6 stranding, and a minimum bending radius of 5 times the outside diameter of the cable.&lt;/p&gt;
+      <title>Advantech NVMe Gen. 4 SSD Solutions, SQFlash 930 and ER-1</title>
+      &lt;img class="img-responsive" src="https://d1v1e13ebw3o15.cloudfront.net/data/80029/pool_and_spa_logo/..jpg"&gt; &lt;p&gt;Advantech, a global embedded computing leader, has released a pair of SQFlash PCIe Gen.4 SSD solutions: the SQF 930 and SQF ER-1.&lt;/p&gt;
 
-&lt;p&gt;The single-core double insulated (SDI) cables feature an operating temperature range of -25°C to 110°C and voltage rating of 600 V/1000 V. The orange outer sheath is made from R-E-110, a flexible rubber that provides UV and weather resistance, oil and chemical resistance, and flame-retardant properties.&lt;/p&gt;
+&lt;p&gt;The Advantech SQF 930 and ER-1 series are designed with PCIe Gen. 4 specifications, delivering double data streaming performance when compared with Gen. 3 solutions. In addition, these solutions are also available in M.2 2280 and U.2 (SFF-8639) sizes to accommodate diverse requirements. In order to fulfil various industrial applications, SQFlash provides different types of general, read-intensive and mixed-use options that enable edge storage devices to keep up with multiple, diverse real-time streaming data sources. In addition, the SQF 930 and ER-1 series support three Drive Writes per Day (DWPD) and one DWPD level to meet different industrial requirements. These also support wide temperature capabilities (-40 – 85°C) for mission-critical applications. The Advantech ER-1 series is built with low power consumption credentials that meet modern ESG high-power and low-carbon expectations.&lt;/p&gt;
 
-&lt;p&gt;Conductor sizes range from 10–300 mm with outer diameters from 9–32.4 mm to suit a broad range of industrial applications, including mains power distribution and DC power feeds. Other products in the SDI range include earth tinned copper (green-yellow outer sheath, 110°C), standard bare copper (black outer sheath with bare copper, 90°C) and black tinned copper (black outer sheath with black copper, 110°C).&lt;/p&gt;
+&lt;p&gt;The series adopts thermal glue with mechanical flexibility to avoid the risk of physical damage to SSD components during sudden temperature changes. The combination of thermal throttling design and real-time I/O adjustment is designed to balance temperature and performance.&lt;/p&gt;
 
-&lt;p&gt;For more information: &lt;a href="https://lappaustralia.com.au/en/switchboard-flex" target="_blank"&gt;https://lappaustralia.com.au/en/switchboard-flex&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The adoption of IoT has led to rising inter-connectivity and increased security concerns. Accordingly, the series meets these challenges by protecting data stored on the SQFlash SSD. This is achieved by providing support for real-time monitoring and using a complete security solution at the SSD firmware level.&lt;/p&gt;
+
+&lt;p&gt;For more information, click &lt;a href="https://www.advantech.com/en-au/products/3afee29a-d85f-4032-a98e-669bf3d6b036/sqf-c8m-930/mod_33075a8b-a5e1-4726-99c9-97e220ebed76?utm_source=WWF_EO&amp;amp;utm_medium=Hot_Product&amp;amp;utm_campaign=WWF_EO_HP_Oct_SQFlash" target="_blank"&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
-      <pubDate>Wed, 01 Nov 2023 00:00:00 +1100</pubDate>
-      <link>https://www.ecdonline.com.au/content/electrical-distribution/hot-product/lapp-orange-tinned-copper-switchboard-flex-cables-28784573</link>
-      <guid isPermaLink="true">https://www.ecdonline.com.au/content/electrical-distribution/hot-product/lapp-orange-tinned-copper-switchboard-flex-cables-28784573</guid>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +1100</pubDate>
+      <link>https://www.electronicsonline.net.au/content/protection/hot-product/advantech-nvme-gen-4-ssd-solutions-sqflash-930-and-er-1-105258326?utm_source=rss</link>
+      <guid isPermaLink="true">https://www.electronicsonline.net.au/content/protection/hot-product/advantech-nvme-gen-4-ssd-solutions-sqflash-930-and-er-1-105258326?utm_source=rss</guid>
     </item>
     <item>
-      <title>HiTHIUM introduces its first 5 MWh container with 46% greater energy density</title>
-      <description>&lt;img class="img-responsive" src="https://d1v1e13ebw3o15.cloudfront.net/data/79423/pool_and_spa_logo/..jpg"  style="display: block; margin: auto" &gt;   &lt;p&gt;HiTHIUM has announced a new 5 MWh container product using the standard 20-foot container structure. The more compact second generation (ESS 2.0), higher-capacity energy storage system will come pre-installed and ready to connect. It will be outfitted with 48 battery modules based on the manufacturer’s new 314Ah LFP cells, each module providing 104.5 kWh capacity and designed to meet the needs of large utility scale systems.&lt;/p&gt;
+      <title>METCASE aluminium electronic enclosures in custom colours</title>
+      &lt;img class="img-responsive" src="https://d1v1e13ebw3o15.cloudfront.net/data/80029/pool_and_spa_logo/..jpg"&gt; &lt;p&gt;Metal electronic enclosures manufacturer METCASE has extended its range of ‘no extra cost’ custom paint colours and finishes. METCASE has added eight new shades to its range of always-in-stock paints — bringing the total to 37 colours plus anodising, passivate, pre-treatment and anti-corrosion finishes.&lt;/p&gt;
 
-&lt;p&gt;Due to the more compact design, the 5 MWh container will provide an energy density of 117Wh/l, 46% higher than the 80Wh/l that can be seen in standard systems based on 280Ah cells. The product will also be technically compatible with most top inverter brands’ power control systems, or bidirectional inverters.&lt;/p&gt;
+&lt;p&gt;The new paint colours are violet blue (RAL 5000), cobalt blue (RAL 5013), pigeon blue (RAL 5014), yellow (Pantone 1235C), medium dark orange (Pantone 159C), salmon orange (Pantone 2027C), teal (Pantone 2238C) and anthracite (Pantone 432C).&lt;/p&gt;
 
-&lt;p&gt;The new energy storage system, named the “HiTHIUM ∞Block,” comes with the company’s mature multi-level, liquid-cooling technology, which keeps cell temperature variation below 3° Celsius. Intelligent thermal management also enables the system to optimize battery power and reduce internal energy consumption. Further safety features include multi-level fault detection systems, cell monitoring, gas and smoke detection, and automated fire extinguishing.&lt;/p&gt;
+&lt;p&gt;METCASE can supply its 19″ enclosures and desktop/portable instrument enclosures in any specified RAL or Pantone colour. However, there is no extra charge if the customer chooses a colour from the always-in-stock range.&lt;/p&gt;
 
-&lt;p&gt;HiTHIUM Head of Global Business Mizhi Zhang said: “This new 5 MWh container demonstrates that we can increase capacity and reduce LCOS, to make the energy transition genuinely affordable.”&lt;/p&gt;
+&lt;p&gt;METCASE has a range of in-house facilities, including a powder paint line and a wet paint cubicle. Its team can supply enclosures and front panels in any custom colour or special finish. There is usually a minimum order of 10–25 units but this does not apply to always-in-stock colours.&lt;/p&gt;
 
-&lt;h4&gt;Optimising cell chemistry and cooling technology for increased safety&lt;/h4&gt;
+&lt;p&gt;Finishes include tough powder polyester painting, chip-resistant wet painting, nickel-loaded EMC shielding lacquers for plastic parts, blemish-free finishing, anodising, Iridite NCP (conductive/anti-corrosion), plus zinc and clear passivate of CR4 steel panels.&lt;/p&gt;
 
-&lt;p&gt;HiTHIUM has increased the intrinsic safety of LFP battery technology further and developed its own proprietary LFP. By means of a so-called lattice doping, the HiTHIUM team has achieved both a higher capacity and a lowered internal resistance of the cell.&lt;/p&gt;
+&lt;p&gt;Other customisation services include bespoke sizes, custom front panels, CNC machining, fixings and inserts, and photo-quality digital printing of graphics, legends and logos.&lt;/p&gt;
 
-&lt;p&gt;In addition to the new 5 MWh container based on 314Ah cells, the company delivers cabinets and containers based on its 300Ah cells, including a 4 MWh-capacity container, that also deploys the proprietary immersion liquid-cooling technology. HiTHIUM also offers the 300Ah and other LFP battery cells and liquid-cooled modules based on them to other battery storage manufacturers for use in their products.&lt;/p&gt;
-
-&lt;p&gt;With the 300Ah cell HiTHIUM succeeded in reducing degradation in the first 1000 cycles to under 2%, versus the industry-typical 6%, achieved in part by modifying the anode with a technology for the active and sustained release of lithium ions. These 300Ah cells, unlike standard LFP cells, still retain their rated capacity after the first 1000 cycles. They are subsequently able to maintain this advantage, in terms of slowed degradation, over their entire lifetime. Batteries with HiTHIUM 300Ah cells can thus realise an 18% higher energy throughput during their lifetime, compared to commercially available LFP cells.&lt;/p&gt;
-
-&lt;p&gt;Why LFP? Of the most commonly used lithium oxides, lithium iron phosphate is the most temperature-resistant, only becoming sensitive at approximately 220° C. Lithium-ion batteries can burn if damaged or heated to extreme temperatures, because of the sensitivity to excess temperatures of the lithium-mixed oxides used in the cell. There are lithium oxides for which so-called thermal runaway occurs at temperatures as low as ca. 180° C. Relative to other kinds, LFP cells have the greatest thermal safety reserves.&lt;/p&gt;
-
-&lt;h4&gt;Inverter suppliers confirm BESS manufacturer HiTHIUM’s compatibility&lt;/h4&gt;
-
-&lt;p&gt;HiTHIUM has also demonstrated technical compatibility with major suppliers of power control systems (PCS) or bidirectional inverters. The PCSs are compatible with HiTHIUM’s products including its container solution systems.&lt;/p&gt;
-
-&lt;p&gt;As a producer of cells, battery modules, up to full DC-side solutions, HiTHIUM teams up with PCS suppliers, working with a range of inverter-makers to confirm that the company’s battery products match well with the inverters’ important technical parameters, including DC input range and maximum short circuit current.&lt;/p&gt;
-
-&lt;p&gt;HiTHIUM confirmed compatibility with brands including SMA, Gamesa, Delta Electronics, IngeTeam, Power Electronics, and Sineng Electric. The assessments look at PCS for both IEC and UL versions. Winfried Wahl, HiTHIUM Germany Senior Product Manager, explains: “The determination of compatibility allows customers and investors to pre-select matching PCS for their projects. Projects still of course need detailed design planning and to implement communication checks between energy management systems, BESS, and the PCS. This confirmation from major suppliers is nonetheless a crucial step, following our European market entry in June, toward delivering clear, transparent product information.”&lt;/p&gt;
-
-&lt;h4&gt;Maintaining agility even while implementing large-scale projects&lt;/h4&gt;
-
-&lt;p&gt;HiTHIUM served as the core supplier for China Southern Power Grid Company’s (CSG) first 100+ MWh-level, grid-side standalone energy storage project. Located in Meizhou City, Guangdong Province, the 140 MWh plant has an energy storage capacity of 140 MWh and deploys advanced LFP battery products from HiTHIUM.&lt;/p&gt;
-
-&lt;p&gt;“Projects like the one in Meizhou City are exactly why we built HiTHIUM’s technology and culture around customer-centricity. CSG and the province needed this project delivered quickly, safely, and with a very high quality of product,” explained Jason Wang, HiTHIUM General Manager and co-founder. “So we set up a special service team to coordinate the entire process, from manufacturing and shipping the batteries to ensuring timely project development and the professionalism of the process.”&lt;/p&gt;
-
-&lt;p&gt;HiTHIUM also recently provided 198 MWh of battery products for a 200 MWh-capacity centralized, shared energy storage plant developed by China Resources Power Holdings. The power station is the first of this kind to operate commercially in Heze City, a metropolitan region with a population of nearly 8.3 million, and it also serves as a key energy storage project for Shandong Province, where it is located.&lt;/p&gt;
-
-&lt;p&gt;To meet continuing demand from large-scale energy storage projects, HiTHIUM is expanding its production capacity to 70 GWh by end of 2023. The manufacturer’s production lines are already some of the most advanced in the world.&lt;/p&gt;
-
-&lt;p&gt;To learn more, click &lt;a href="https://hithium.com/en/?utm_medium=display&amp;amp;utm_source=ecd&amp;amp;utm_campaign=web_entry_10_de&amp;amp;utm_content=enews&amp;amp;utm_term=231001" target="_blank"&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For further information: &lt;a href="https://www.metcase.com.au/en/Modifications-Finishing/Painting-Finishing.htm"&gt;https://www.metcase.com.au/en/Modifications-Finishing/Painting-Finishing.htm&lt;/a&gt;.&lt;/p&gt;
 </description>
-      <pubDate>Wed, 01 Nov 2023 00:00:00 +1100</pubDate>
-      <link>https://www.ecdonline.com.au/content/efficiency-renewables/sponsored/hithium-introduces-its-first-5-mwh-container-with-46-greater-energy-density-926413582</link>
-      <guid isPermaLink="true">https://www.ecdonline.com.au/content/efficiency-renewables/sponsored/hithium-introduces-its-first-5-mwh-container-with-46-greater-energy-density-926413582</guid>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +1100</pubDate>
+      <link>https://www.electronicsonline.net.au/content/assembly/hot-product/metcase-aluminium-electronic-enclosures-in-custom-colours-490386352?utm_source=rss</link>
+      <guid isPermaLink="true">https://www.electronicsonline.net.au/content/assembly/hot-product/metcase-aluminium-electronic-enclosures-in-custom-colours-490386352?utm_source=rss</guid>
     </item>
     <item>
-      <title>TestPro CV100 Multifunction Cable Certifier</title>
-      <description>&lt;img class="img-responsive" src="https://d1v1e13ebw3o15.cloudfront.net/data/79253/pool_and_spa_logo/..jpg"  style="display: block; margin: auto" &gt;   &lt;p&gt;Approved by more than 35 cable manufacturers worldwide, the TestPro CV100 Multifunction Cable Certifier is purpose-built for today’s copper and fibre network infrastructure. Offering a large suite of test functions, the TestPro CV100 enables certification of cables to ISO/IEC 14763-3, AS/NZS 3080:2003 and other standards through hot swappable test adapters.&lt;/p&gt;
+      <title>Australian quantum industry poised to reach $6 billion by 2045</title>
+      &lt;img class="img-responsive" src="https://d1v1e13ebw3o15.cloudfront.net/data/80029/pool_and_spa_logo/..jpg"&gt; &lt;p&gt;Quantum technology is forecast to reach $6 billion and generate more than 19,000 jobs in Australia by 2045, according to updated market projections released by CSIRO, Australia’s national science agency. CSIRO’s original &lt;a href="https://www.csiro.au/en/work-with-us/services/consultancy-strategic-advice-services/CSIRO-futures/Future-Industries/Quantum" target="_blank"&gt;Growing Australia’s Quantum Technology Industry Roadmap&lt;/a&gt; has been updated two years on and reflects the growth trajectory of quantum technology across the report’s three key domains of quantum computing, sensing and measurement, and communications. The report provides estimates and refinements of the original modelling and extends the forecast from 2040 to 2045 while affirming the economy results from the earlier report.&lt;/p&gt;
 
-&lt;p&gt;It offers testing for single pair Ethernet, hybrid-powered fibre, wireless network connectivity (SSID, RSSI, Ping, Speedtest, Roaming) and network connectivity (Speedtest, SNR per link speed).&lt;/p&gt;
+&lt;p&gt;CSIRO Senior Economist Mingji Liu said that the updated figures reflected recent domestic and global developments in quantum technology opportunities. “Our updated modelling reaffirms that quantum technology continues to be a significant opportunity for Australia in the years to come. Although there is still uncertainty as to how quantum technology will be commercialised both around the world and domestically, the start-up funding and investment in quantum is encouraging,” Liu said.&lt;/p&gt;
 
-&lt;p&gt;The CV100 platform is compatible with multiple plugin test adapters for different applications, including: copper test adapters up to CAT 8.1 and 3 GHz as standard (CAT 8.2 as an option); fibre OLTS test adapters (singlemode and multimode); OTDR test adapters; and multi-gigabit network test up to 10 Gb and PoE Test Adapter up to 90 W. It comes with project management software and regular free firmware updates.&lt;/p&gt;
+&lt;p style="text-align:center"&gt;&lt;img alt="" class="img-responsive" src="https://d2emomln4apc0h.cloudfront.net/assets/490406/web_image_article/CSIRO_Australian_quantum_industry.jpg" style="display: block; margin: auto"&gt;&lt;/p&gt;
 
-&lt;p&gt;Other features include full CAT6A certification in 6 s; network switch detail (VLANs list and usage, slot, port, device list, MACs, IPs); a locator for NEXT, RL and Shield; and MPTL and coaxial adapters. Made in Singapore with local calibration in Australia, it has a 5-year warranty.&lt;/p&gt;
+&lt;p style="text-align:center"&gt;&lt;h9&gt;Australia has strong research capabilities in quantum hardware development and quantum information science, both of which are critical to the development of the hardware and software stack needed to enable functional quantum computing applications. Image credit: CSIRO&lt;/h9&gt;&lt;/p&gt;
 
-&lt;p&gt;For more information: &lt;a href="https://telecomtest.com.au/product/cable-certifier-testpro-cv100-for-fiber-and-lan-cat5-5e-6-6a-8/" target="_blank"&gt;https://telecomtest.com.au&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The economic modelling forecasts that by 2030, Australia’s quantum technology opportunity in revenue terms could conservatively reach $2.2 billion and could generate 8700 jobs. In five years, this could reach $3.3 billion by 2035, and then reach $4.6 billion by 2040 and could generate 16,100 jobs (the same as original projections in 2020). According to CSIRO Quantum Technologies Director Jim Rabeau, the last 18 months have seen a significant increase in focus to strengthen Australia’s position in the emerging global quantum industry. “CSIRO has launched its Future Science Platform, a number of new companies have been backed or reached key milestones, a tech industry group has been formed and we’re seeing an intensive national focus. The key now will be to sustain and grow over the long term,” Rabeau said.&lt;/p&gt;
+
+&lt;p&gt;CSIRO Chief Executive Larry Marshall said that Australia is at a pivotal stage of growing its quantum industry and is at a tipping point between research and commercial development. “We need to harness our bold vision for what this breakthrough technology could mean for some of our largest industries,” Marshall said.&lt;/p&gt;
+
+&lt;p&gt;&lt;h9&gt;Top image credit: CSIRO&lt;/h9&gt;&lt;/p&gt;
 </description>
-      <pubDate>Wed, 01 Nov 2023 00:00:00 +1100</pubDate>
-      <link>https://www.ecdonline.com.au/content/test-measurement/hot-product/testpro-cv100-multifunction-cable-certifier-747634600</link>
-      <guid isPermaLink="true">https://www.ecdonline.com.au/content/test-measurement/hot-product/testpro-cv100-multifunction-cable-certifier-747634600</guid>
+      <pubDate>Thu, 27 Oct 2022 00:00:00 +1100</pubDate>
+      <link>https://www.electronicsonline.net.au/content/business/news/australian-quantum-industry-poised-to-reach-6-billion-by-2045-1164973171?utm_source=rss</link>
+      <guid isPermaLink="true">https://www.electronicsonline.net.au/content/business/news/australian-quantum-industry-poised-to-reach-6-billion-by-2045-1164973171?utm_source=rss</guid>
     </item>
     <item>
-      <title>New energy hub simulates Australia&amp;#39;s grid</title>
-      <description>&lt;img class="img-responsive" src="https://d1v1e13ebw3o15.cloudfront.net/data/79447/pool_and_spa_logo/..jpg"  style="display: block; margin: auto" &gt;   &lt;p&gt;&lt;a href="https://www.siemens.com/au/en.html" target="_blank"&gt;Siemens&lt;/a&gt; and &lt;a href="https://www.swinburne.edu.au/" target="_blank"&gt;Swinburne University of Technology&lt;/a&gt; have launched a major &lt;a href="https://www.swinburne.edu.au/research/platforms-initiatives/siemens-swinburne-energy-transition-hub" target="_blank"&gt;Energy Transition Hub&lt;/a&gt; at the University’s Hawthorn campus in Melbourne.&lt;/p&gt;
+      <title>AI powers all-in-one miniature spectrometer</title>
+      &lt;img class="img-responsive" src="https://d1v1e13ebw3o15.cloudfront.net/data/80029/pool_and_spa_logo/..jpg"&gt; &lt;p&gt;An international research team led by researchers at Aalto University has developed high-sensitivity spectrometers with high wavelength accuracy, high spectral resolution and broad operation bandwidth, using only a single microchip-sized detector. The research for this ultra-miniaturised spectrometer was published in the journal &lt;a href="https://www.science.org/doi/10.1126/science.add8544" target="_blank"&gt;&lt;em&gt;Science&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Featuring some of the most advanced digital energy technology from Siemens along with the technical, R&amp;amp;D and teaching expertise of Swinburne, the $5.2 million Hub is a future energy grid laboratory accessible to students, teaching staff and industry.&lt;/p&gt;
+&lt;p&gt;Spectrometers are widely used throughout industry and research to detect and analyse light. Spectrometers measure the spectrum of light — its strength at different wavelengths, like the colours in a rainbow — and are useful for identifying and analysing specimens and materials. Integrated on-chip spectrometers can be of benefit to a variety of technologies, including quality inspection platforms, security sensors, biomedical analysers, healthcare systems, environmental monitoring tools and space telescopes. Postdoctoral researcher Hoon Hahn Yoon said that the single-detector spectrometer is an all-in-one device that measures light intensity at each wavelength beyond the visible spectrum. According to Yoon, the device is entirely controllable, with potential for scalability and integration.&lt;/p&gt;
 
-&lt;p&gt;“The new Siemens Swinburne Energy Transition Hub will be working on new technologies to improve efficiency, supply, integration, storage, transport and use, as well as how we can improve existing technologies and frameworks,” said Deputy Vice-Chancellor, Research, Professor Karen Hapgood.&lt;/p&gt;
+&lt;p&gt;“We designed this optoelectronic-lab-on-a-chip with artificial intelligence replacing conventional hardware, such as optical and mechanical components. Therefore, our computational spectrometer does not require separate bulky components or array designs to disperse and filter light. It can achieve high resolution comparable to benchtop systems but in a much smaller package. Integrating it directly into portable devices such as smartphones and drones could advance our daily lives. Imagine that the next generation of our smartphone cameras could be fitted with hyperspectral cameras that outperform colour cameras,” Yoon said.&lt;/p&gt;
 
-&lt;p&gt;“We need change fast, and the Siemens–Swinburne team will focus on taking ideas to market — where they can make the most impact as quickly as possible.”&lt;/p&gt;
+&lt;p&gt;Shrinking computational spectrometers is vital for their use in chips and implantable applications. Professor Zhipei Sun, the head of the research team, said that conventional spectrometers are bulky because they need optical and mechanical components, thereby limiting their on-chip applications. “There is an emerging demand in this field to improve the performance and usability of spectrometers. From this point of view, miniaturised spectrometers are very important for future applications to offer high performance and new functions in all fields of science and industry,” Sun said.&lt;/p&gt;
 
-&lt;p&gt;Visitors to the Hub will be able to leverage digital twins of energy grids, map scenarios, research new findings, develop original hypotheses and test results. The digital twin of Australia’s energy grid will help commercial research teams run simulations of new, innovative solutions and software, focusing on the intermix and influx of various sources of energy into the grid.&lt;/p&gt;
+&lt;p&gt;Professor Pertti Hakonen said that with further improvements in resolution and efficiency, the spectrometer could provide a new tool for quantum information processing. “Finland and Aalto have invested in photonics research in recent years. For example, there has been great support from the Academy of Finland’s Centre of Excellence on quantum technology, Flagship on Photonics Research and Innovation, InstituteQ and the Otanano Infrastructure. Our new spectrometer is a clear demonstration of the success of these collaborative efforts,” Hakonen said.&lt;/p&gt;
 
-&lt;p&gt;Additionally, researchers, students and industry can use the opportunity to work on solutions for greener, more efficient future energy systems using Siemens Xcelerator, a new open digital business platform and marketplace.&lt;/p&gt;
+&lt;p&gt;In addition to Postdoctoral Researcher Hoon Hahn Yoon and Professors Zhipei Sun and Pertti Hakonen, the key Aalto members linked to the work included Postdoctoral Researchers Henry A Fernandez and Faisal Ahmed, Doctoral Researchers Fedor Nigmatulin, Xiaoqi Cui, Md Gius Uddin and Professor Harri Lipsanen.&lt;/p&gt;
 
-&lt;p style="text-align:center"&gt;&lt;img alt="" class="img-responsive" src="https://d2emomln4apc0h.cloudfront.net/assets/538104/web_image_article/Image-2-Team.jpg" style="display: block; margin: auto"&gt;&lt;/p&gt;
-
-&lt;p style="text-align:center"&gt;&lt;h9&gt;Siemens and Swinburne spokespeople with Minister D’Ambrosio. (L-R) Mr Jose Moreira (Siemens), Associate Professor Mehdi Seyedmahmoudian (Swinburne), Professor Karen Hapgood (Swinburne), Minister Lily D’Ambrosio, Mr Peter Halliday (Siemens), Professor Alex Stojcevski (Swinburne).&lt;/h9&gt;&lt;h9&gt;&lt;/h9&gt;&lt;/p&gt;
-
-&lt;p&gt;“Collaboration between industry and academia is critical to driving better outcomes on key topics of national importance such as the energy transition. I’m proud of what the Siemens and Swinburne teams have achieved at the Energy Transition Hub, creating a best-of-its-kind for industry,” said Peter Halliday, CEO, Siemens Australia and New Zealand.&lt;/p&gt;
-
-&lt;p&gt;“The race to tackle climate change is real and of utmost importance. Australia’s contribution to global emissions is just over 1%. As industry and as a society, we should be focusing on reducing our emissions beyond the 1%, using digitalisation as the key lever to driving long-term sustainability. The Hub is a great example of how the best minds can collaborate to help shape the future,” he said.&lt;/p&gt;
-
-&lt;p&gt;&lt;h9&gt;Top image caption: Students using the Energy Transition Hub’s facilities. Images courtesy of Siemens.&lt;/h9&gt;&lt;/p&gt;
+&lt;p&gt;&lt;h9&gt;Image credit: iStock.com/Avalon_Studio&lt;/h9&gt;&lt;/p&gt;
 </description>
-      <pubDate>Wed, 01 Nov 2023 00:00:00 +1100</pubDate>
-      <link>https://www.ecdonline.com.au/content/business-and-management/news/new-energy-hub-simulates-australia-s-grid-951056151</link>
-      <guid isPermaLink="true">https://www.ecdonline.com.au/content/business-and-management/news/new-energy-hub-simulates-australia-s-grid-951056151</guid>
+      <pubDate>Thu, 27 Oct 2022 00:00:00 +1100</pubDate>
+      <link>https://www.electronicsonline.net.au/content/test-measure/news/ai-powers-all-in-one-miniature-spectrometer-1135698504?utm_source=rss</link>
+      <guid isPermaLink="true">https://www.electronicsonline.net.au/content/test-measure/news/ai-powers-all-in-one-miniature-spectrometer-1135698504?utm_source=rss</guid>
     </item>
     <item>
-      <title>Vic State Electricity Commission back in business</title>
-      <description>&lt;img class="img-responsive" src="https://d1v1e13ebw3o15.cloudfront.net/data/79491/pool_and_spa_logo/..jpg"  style="display: block; margin: auto" &gt;   &lt;p&gt;The Victorian Government has officially brought back its State Electricity Commission (SEC) as a government entity with a plan to lead the state’s renewable energy transition through a focus on supply, homes and training. Originally established in 1918, the SEC was privatised in the 1990s.&lt;/p&gt;
+      <title>STMicroelectronics IPS1025HF fast-starting high-side power switch</title>
+      &lt;img class="img-responsive" src="https://d1v1e13ebw3o15.cloudfront.net/data/80029/pool_and_spa_logo/..jpg"&gt; &lt;p&gt;STMicroelectronics has introduced the IPS1025HF fast-starting high-side power switch for use in safety systems that require minimal power-on delay time.&lt;/p&gt;
 
-&lt;p&gt;Launched by Premier Jacinta Allan, the SEC’s Strategic Plan 2023–2035 sets out three clear priorities for the next 10 years:&lt;/p&gt;
+&lt;p&gt;The power switch is designed to respond to turn-on and turn-off signals in less than 60 µs even considering the Vcc power-on and off, enabling protective systems to provide a specified safety-integrity level (SIL). Featuring a wide input-voltage range from 8.65 to 60 V and able to tolerate up to 65 V on the input pin, the devices are designed to withstand harsh industrial operating conditions. Applications include power control for programmable logic controllers (PLCs), vending machines, factory-automation I/O peripherals and computer numerical control (CNC) machines.&lt;/p&gt;
 
-&lt;ul&gt;
-	&lt;li&gt;Investing to accelerate the energy transition.&lt;/li&gt;
-	&lt;li&gt;Supporting the switch to all-electric households.&lt;/li&gt;
-	&lt;li&gt;Building a renewable energy workforce.&lt;br&gt;
-	 &lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Like similar single-channel and dual devices in ST’s intelligent power switch family, the IPS1025HF has two programmable current-limit settings that allow the user to program a higher current limitation value at power switch activation. This enhances flexibility for driving loads such as bulb lamps, motors and capacitive loads that require high initial peak current.&lt;/p&gt;
 
-&lt;p&gt;Initially, the SEC will invest $1 billion towards building 4.5 gigawatts of new power through renewable energy and storage projects — enough to power around 1.5 million homes. This investment will focus on increasing storage and onshore generation, and building industry confidence to attract further investment down the line.&lt;/p&gt;
+&lt;p&gt;The output stage is an N-channel Power MOSFET with a typical Rds(on) of 12.5 mOhm at ambient temperature, for high energy efficiency and low thermal dissipation. The MOSFET is internally limited at 2.5 A minimum output current and has single-pulse avalanche energy up to 14 J, which boosts reliability for handling inductive loads. There is also an integrated active clamp for fast demagnetisation.&lt;/p&gt;
 
-&lt;p&gt;“Our initial $1 billion investment for the SEC will help boost private investment to fast-track and deliver projects that would not have been delivered at the same speed, or at all, without the SEC’s involvement,” said Treasurer Tim Pallas.&lt;/p&gt;
+&lt;p&gt;The switch includes protection against undervoltage, overvoltage, overload, short circuit, ground disconnection and Vcc disconnection. On-chip diagnostics include individual signalling of output overload and junction overtemperature and there is an extra thermal sensor to detect excessive case temperature. The device is designed to meet IEC 61000-4-2 ESD, IEC 61000-4-4 and IEC 61000-4-5 specifications for ESD, fast-transient and surge immunity.&lt;/p&gt;
 
-&lt;p&gt;The SEC will also take over the Labor government’s Victorian Renewable Energy Target projects by 2025 — amounting to 1.2 gigawatts of renewable energy generation in addition to the 4.5 gigawatts.&lt;/p&gt;
+&lt;p&gt;For fast evaluation, the X-NUCLEO-OUT15A1 expansion board contains an IPS1025HF with associated circuitry ready to connect to STM32 Nucleo development boards. A demonstration firmware pack, STSW-OUT15F4, and industrial-automation system design GUI, STSW-IFAPGUI, are also available, thereby providing an entire industrial-automation environment on the desktop.&lt;/p&gt;
 
-&lt;p&gt;This will help power public hospital and schools, police stations and government buildings with renewables, helping to achieve the target for all Victorian Government operations and facilities to be powered by 100% renewable electricity by 2025.&lt;/p&gt;
+&lt;p&gt;The power switch is in production now, available in both PowerSSO-24 and QFN48L packages.&lt;/p&gt;
 
-&lt;p&gt;Given that electrifying an older home can be a complicated process, with many moving parts, the SEC will establish a trusted ‘one-stop shop’ for Victorians, with pilot household solutions starting from next year. It is estimated that residents will make a saving of around $1400 a year by going electric; savings can increase to more than $2700 a year with solar installed.&lt;/p&gt;
-
-&lt;p&gt;Finally, the SEC will deliver the skills and training needed to secure Victoria’s pipeline of future energy workers. This involves supporting the creation of 59,000 jobs — including 6000 traineeships and apprentices — to help deliver the infrastructure and services needed to get the state to 95% renewable energy by 2035.&lt;/p&gt;
-
-&lt;p&gt;The SEC will support workforce development and attraction through three avenues: as an employer; through attraction and training; and as an advocate for sector-wide workforce development. It will establish the SEC Centre of Training Excellence and engage with schools, TAFEs and industry.&lt;/p&gt;
-
-&lt;p&gt;The SEC’s Strategic Plan was developed on recommendation from the SEC Expert Advisory Panel, which brought together some of Australia’s most prominent energy sector and business leaders. Each panel member brought specific expertise to guide the design of the new SEC and position it to accelerate Victoria’s energy transition.&lt;/p&gt;
-
-&lt;p&gt;“More than 100 years after it was first established, we’ve brought back the SEC to free Victoria from its reliance on fossil fuels and unlock the opportunities of our renewable energy transition,” said Interim CEO of the State Electricity Commission Chris Miller.&lt;/p&gt;
-
-&lt;p&gt;For more information about the SEC and to view the strategy, visit: &lt;a href="https://www.secvictoria.com.au/" target="_blank"&gt;secvictoria.com.au&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;h9&gt;Image credit: iStock.com/Paul Bradbury&lt;/h9&gt;&lt;/p&gt;
+&lt;p&gt;For more information, visit &lt;a href="http://www.st.com/ips/hss" target="_blank"&gt;www.st.com/ips/hss&lt;/a&gt;.&lt;/p&gt;
 </description>
-      <pubDate>Wed, 01 Nov 2023 00:00:00 +1100</pubDate>
-      <link>https://www.ecdonline.com.au/content/business-and-management/news/vic-state-electricity-commission-back-in-business-1625390786</link>
-      <guid isPermaLink="true">https://www.ecdonline.com.au/content/business-and-management/news/vic-state-electricity-commission-back-in-business-1625390786</guid>
+      <pubDate>Thu, 27 Oct 2022 00:00:00 +1100</pubDate>
+      <link>https://www.electronicsonline.net.au/content/components/microsite-product/stmicroelectronics-ips1025hf-fast-starting-high-side-power-switch-384271155?utm_source=rss</link>
+      <guid isPermaLink="true">https://www.electronicsonline.net.au/content/components/microsite-product/stmicroelectronics-ips1025hf-fast-starting-high-side-power-switch-384271155?utm_source=rss</guid>
     </item>
     <item>
-      <title>Modern home seeks slick solar solution</title>
-      <description>&lt;img class="img-responsive" src="https://d1v1e13ebw3o15.cloudfront.net/data/79446/pool_and_spa_logo/..jpg"  style="display: block; margin: auto" &gt;   &lt;p&gt;On the northern outskirts of Auckland, there’s a property on which a local working farm sits beside a natural forested area. Located on the farm is a newly developed gated community with approximately 20 architecturally designed modern homes.&lt;/p&gt;
+      <title>Strength in numbers when it comes to inertial sensors</title>
+      &lt;img class="img-responsive" src="https://d1v1e13ebw3o15.cloudfront.net/data/80029/pool_and_spa_logo/..jpg"&gt; &lt;p&gt;Researchers working in the field of navigation and supported by the Swiss National Science Foundation (SNSF) have developed a method that allows several low-cost inertial sensors working in combination to replace a single expensive sensor.&lt;/p&gt;
 
-&lt;p&gt;When searching for a home solar system, the owner of one of these residences opted for &lt;a href="https://taspacenergy.co.nz/" target="_blank"&gt;Taspac Energy&lt;/a&gt;, a wholesaler and distributor of solar energy solutions across all market segments in the New Zealand solar industry. The brief was to provide a solar mounting system for the two buildings onsite — a 150 m&lt;sup&gt;2&lt;/sup&gt; primary residence and a 100 m&lt;sup&gt;2&lt;/sup&gt; garage/home office studio.&lt;/p&gt;
+&lt;p&gt;Inertial sensors such as accelerometers and gyroscopes are used nearly everywhere, from smart watches to submarines, drones, spacecraft, vacuum cleaners and even game controllers. The purpose of these sensors is to indicate the position, speed or direction of an object. Their drawback is their lack of precision, at least when it comes to the low-cost versions used in many devices.&lt;/p&gt;
 
-&lt;h4&gt;Challenges&lt;/h4&gt;
+&lt;p&gt;Now there may be a way to solve this problem, with researchers from the &lt;a href="https://www.unige.ch/en/" target="_blank"&gt;University of Geneva&lt;/a&gt; reporting that networking several inexpensive sensors is a viable alternative to more powerful sensors. By combining the measurements of several low-cost, individual sensors, the researchers succeeded in obtaining a very precise navigational measurement. Their breakthrough was published in the journal &lt;a href="https://ieeexplore.ieee.org/document/9899741/authors" target="_blank"&gt;&lt;em&gt;IEEE Transactions on Signal Processing&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;The homeowner had chosen a standing seam metal roof because of its design appeal and flat uniform shape. It was important to him to have a low-profile, sleek, all-black solar solution that would not penetrate the roof or void any roof warranty.&lt;/p&gt;
+&lt;p&gt;“It is as if we had created a virtual sensor, and it is particularly efficient because it uses all the information provided by the individual sensors,” said Yuming Zhang, a PhD candidate in statistics and lead author of the new study. These virtual sensors not only offer the same performance as actual sensors but are also less expensive and can be more flexibly configured. They could therefore be used in a number of consumer devices without increasing their cost.&lt;/p&gt;
 
-&lt;p&gt;Additionally, the property features an outdoor swimming pool, a spa bathroom and an EV charging station onsite, which is integrated into the whole solar PV system. The goal was for the solar system to supplement as much power as possible, as the property consumes 35,000 kWh per year.&lt;/p&gt;
+&lt;p&gt;The idea of combining information from different sensors is not new, but until now technical constraints have limited its application. As explained by Zhang, “Sensor measurement errors are very complex to handle individually, and even more so when several sensors are combined.” The team solved the problem using a new signal decomposition approach, which makes it possible to understand and deal with errors that affect measurements and to process them using a novel statistical method.&lt;/p&gt;
 
-&lt;h4&gt;The solution&lt;/h4&gt;
+&lt;p&gt;According to the researchers, the potential applications of the new technique widely range from aerial mapping using drones to autonomous vehicles. In addition, the ability to optimally combine different sensor technologies could help develop a new generation of global positioning systems.&lt;/p&gt;
 
-&lt;p style="text-align:center"&gt;&lt;img alt="" class="img-responsive" src="https://d2emomln4apc0h.cloudfront.net/assets/537460/web_image_article/DJI-0049.jpg" style="display: block; margin: auto"&gt;&lt;/p&gt;
-
-&lt;p&gt;The homeowner chose the &lt;a href="https://www.s-5.com/" target="_blank"&gt;S-5!&lt;/a&gt; PVKIT rail-less solar mounting solution (in black) combined with the S-5-R-465 Mini non-penetrating, standing seam clamp to complement the aesthetic look of the roof so the whole system would look slick and black.&lt;/p&gt;
-
-&lt;p&gt;The secondary building features a standing seam metal roof with a 12.6 kW solar array secured in place utilising the S-5! PVKIT direct-attach, rail-less solar solution. The rooftop solar system consists of 32 405-watt black PV modules connected to a 10 kW solar inverter coupled with a 19.2 kWh battery storage system.&lt;/p&gt;
-
-&lt;p&gt;The S-5! system provides a simple, secure method to ‘lay &amp;amp; play’ PV modules with tested, engineered, direct attachment onto the seams of the metal roof. Also, using the S-5! clamps meant the homeowner could maintain warranties due to the non-invasive, penetration-free attachment.&lt;/p&gt;
-
-&lt;h4&gt;The outcome&lt;/h4&gt;
-
-&lt;p&gt;The homeowner was able to supplement the property’s power generation by 45%, reducing his dependency on utilities. The PVKIT system eliminated the need for a traditional rail system and provided an aesthetically pleasing, cost-effective PV-mounting solution — saving the customer time and money on installation and materials.&lt;/p&gt;
-
-&lt;p&gt;“We were naturally drawn to the quality of S-5! products and the fact that there are no known warranty claims or failures on any of the products they have ever produced,” said James Hanff, Grid Connected Project Manager, Taspac Energy Ltd.&lt;/p&gt;
-
-&lt;p&gt;“Their rail-less solution is super-compact and easy to transport, great quality, super-fast and user-friendly.”&lt;/p&gt;
-
-&lt;h4&gt;Project stats&lt;/h4&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;Solar installer: Avid Solar&lt;/li&gt;
-	&lt;li&gt;S-5! distributor: Taspac Energy Ltd.&lt;/li&gt;
-	&lt;li&gt;Module manufacturer: 32 405-watt REC Alpha Pure Modules&lt;/li&gt;
-	&lt;li&gt;Inverter manufacturer: Fronius Gen 24Plus Hybrid Inverter&lt;/li&gt;
-	&lt;li&gt;Battery storage: BYD Battery-Box Premium HVM Battery Storage System&lt;/li&gt;
-	&lt;li&gt;Project size: 12.6 kW&lt;/li&gt;
-	&lt;li&gt;Roof profile: standing seam metal roof&lt;br&gt;
-	 &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;h9&gt;Images courtesy of S-5!&lt;/h9&gt;&lt;/p&gt;
+&lt;p&gt;&lt;h9&gt;Image credit: iStock.com/seregalsv&lt;/h9&gt;&lt;/p&gt;
 </description>
-      <pubDate>Tue, 31 Oct 2023 00:00:00 +1100</pubDate>
-      <link>https://www.ecdonline.com.au/content/efficiency-renewables/case-study/modern-home-seeks-slick-solar-solution-1622501561</link>
-      <guid isPermaLink="true">https://www.ecdonline.com.au/content/efficiency-renewables/case-study/modern-home-seeks-slick-solar-solution-1622501561</guid>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +1100</pubDate>
+      <link>https://www.electronicsonline.net.au/content/sensors/news/strength-in-numbers-when-it-comes-to-inertial-sensors-1225242172?utm_source=rss</link>
+      <guid isPermaLink="true">https://www.electronicsonline.net.au/content/sensors/news/strength-in-numbers-when-it-comes-to-inertial-sensors-1225242172?utm_source=rss</guid>
     </item>
     <item>
-      <title>Exposing the vulnerabilities of smart homes</title>
-      <description>&lt;img class="img-responsive" src="https://d1v1e13ebw3o15.cloudfront.net/data/79401/pool_and_spa_logo/..jpg"  style="display: block; margin: auto" &gt;   &lt;p&gt;Smart homes are becoming increasingly interconnected, comprising an array of consumer-oriented Internet of Things (IoT) devices ranging from smartphones and smart TVs to virtual assistants and CCTV cameras. These devices have cameras, microphones and other ways of sensing what is happening in our most private spaces — our homes.&lt;/p&gt;
+      <title>Global Semiconductor Alliance announces recipient of Exemplary Leadership Award</title>
+      &lt;img class="img-responsive" src="https://d1v1e13ebw3o15.cloudfront.net/data/80029/pool_and_spa_logo/..jpg"&gt; &lt;p&gt;The Global Semiconductor Alliance (&lt;a href="https://cts.businesswire.com/ct/CT?id=smartlink&amp;amp;url=http%3A%2F%2Fwww.gsaglobal.org&amp;amp;esheet=52945280&amp;amp;newsitemid=20221018005025&amp;amp;lan=en-US&amp;amp;anchor=Global+Semiconductor+Alliance+%28GSA%29&amp;amp;index=1&amp;amp;md5=f672604b30d1d068d12313fccd58be9b&amp;amp;_gl=1*roif1f*_ga*MTA5MzgyNzM2NS4xNjYxMjk2NjI4*_ga_ZQWF70T3FK*MTY2NjY1MDA0Ny4xMS4xLjE2NjY2NTE0MDguMC4wLjA." target="_blank"&gt;GSA&lt;/a&gt;) will honour technologist and business leader Steve Sanghi, Executive Chair of &lt;a href="https://cts.businesswire.com/ct/CT?id=smartlink&amp;amp;url=https%3A%2F%2Fwww.microchip.com%2F&amp;amp;esheet=52945280&amp;amp;newsitemid=20221018005025&amp;amp;lan=en-US&amp;amp;anchor=Microchip+Technology&amp;amp;index=3&amp;amp;md5=c227e5e0a84f51a4adfe35169650734c&amp;amp;_gl=1*roif1f*_ga*MTA5MzgyNzM2NS4xNjYxMjk2NjI4*_ga_ZQWF70T3FK*MTY2NjY1MDA0Ny4xMS4xLjE2NjY2NTE0MDguMC4wLjA." target="_blank"&gt;Microchip Technology&lt;/a&gt;, with its prestigious Dr Morris Chang Exemplary Leadership Award at this year’s &lt;a href="https://cts.businesswire.com/ct/CT?id=smartlink&amp;amp;url=https%3A%2F%2Fwww.gsaglobal.org%2F2022awd%2F&amp;amp;esheet=52945280&amp;amp;newsitemid=20221018005025&amp;amp;lan=en-US&amp;amp;anchor=Annual+Awards+Celebration&amp;amp;index=5&amp;amp;md5=0d93755a10b89b3d00dc106fa09f3d75&amp;amp;_gl=1*roif1f*_ga*MTA5MzgyNzM2NS4xNjYxMjk2NjI4*_ga_ZQWF70T3FK*MTY2NjY1MDA0Ny4xMS4xLjE2NjY2NTE0MDguMC4wLjA." target="_blank"&gt;Annual Awards Celebration&lt;/a&gt; on 8 December 2022. Established in 1999, the Dr Morris Chang Exemplary Leadership Award is the highest achievable honour through the GSA. The award recognises individuals for their exceptional contributions, exemplifying how their vision and global leadership have transformed and elevated the semiconductor industry.&lt;/p&gt;
 
-&lt;p&gt;Led by &lt;a href="https://networks.imdea.org/" target="_blank"&gt;IMDEA Networks&lt;/a&gt; and &lt;a href="https://www.northeastern.edu/" target="_blank"&gt;Northeastern University&lt;/a&gt; in collaboration with NYU Tandon School of Engineering, Universidad Carlos III de Madrid (UC3M), IMDEA Software, the University of Calgary and the International Computer Science Institute, the research team looked into the intricacies of local network interactions between 93 IoT devices and mobile apps. Their study, titled ‘In the Room Where It Happens: Characterizing Local Communication and Threats in Smart Homes’, was presented at the ACM Internet Measurement Conference (ACM IMC’23) in Montreal, Canada.&lt;/p&gt;
+&lt;p&gt;Jodi Shelton, co-founder and CEO of GSA, said that Sanghi is a leader and visionary in the semiconductor industry, adding that Sanghi was recognised for his exceptional business acumen and far-reaching respect among the technology industry and business community. “I had the pleasure of working closely with Steve during his tenure on GSA’s board of directors and I am delighted to honour Steve’s distinguished career and add to his legacy with GSA’s Dr Morris Chang Exemplary Leadership Award,” Shelton said.&lt;/p&gt;
 
-&lt;p&gt;“When we think of what happens between the walls of our homes, we think of it as a trusted, private place. In reality, we find that smart devices in our homes are piercing that veil of trust and privacy — in ways that allow nearly any company to learn what devices are in your home, to know when you are home, and learn where your home is,” said David Choffnes, Associate Professor of Computer Science and Executive Director of the Cybersecurity and Privacy Institute at Northeastern University.&lt;/p&gt;
+&lt;p&gt;Sanghi serves as Executive Chair of Microchip and Chairman of the Board of Directors. Spending more than 30 years as Microchip’s President and CEO, Sanghi led the company’s transformation while nurturing its culture. Sanghi’s foundation of long-term success for Microchip involved fostering employee empowerment along with his commitment and investment to creating a strong leadership pipeline and promoting from within. Several members of the leadership team at Microchip started with the company as interns and new college graduates and today are vice presidents and senior vice presidents.&lt;/p&gt;
 
-&lt;p&gt;“These behaviours are generally not disclosed to consumers, and there is a need for better protections in the home.”&lt;/p&gt;
+&lt;p&gt;“I’m humbled by the honour of receiving this year’s Dr Morris Chang Exemplary Leadership Award, and to be recognised alongside all the other distinguished semiconductor industry leaders. Through our collective efforts, the semiconductor industry has unquestionably made the world a better place. It has been the privilege of my career to lead the Microchip team and to empower the innovation of thousands of customers who in turn have dramatically enhanced the human experience,” Sanghi said.&lt;/p&gt;
 
-&lt;p&gt;The study’s findings illuminated new threats associated with the inadvertent exposure of sensitive data by IoT devices within local networks using standard protocols such as UPnP or mDNS. These threats include the exposure of unique device names, universally unique identifiers (UUIDs) and even household geolocation data, all of which can be harvested by companies involved in surveillance capitalism without user awareness.&lt;/p&gt;
+&lt;p&gt;Sanghi was named the Executive of the Year by &lt;em&gt;EE Times&lt;/em&gt; and received the Arizona Technology Council’s Lifetime Achievement Award in 2010. He has also been listed on the &lt;em&gt;Phoenix Business Journal&lt;/em&gt;’s annual list of the Most Admired CEOs, been named a 2009 recipient of Arizona State University’s Distinguished Achievement Award, and recognised as Arizona Entrepreneur of the Year by Ernst &amp;amp; Young. Under Sanghi’s leadership, Microchip won numerous awards, including the Industry Leaders of Arizona award in 2015, the Alfred P. Sloan Award for Business Excellence in Workplace Flexibility for the past eight straight years, the &lt;em&gt;Phoenix Business Journal&lt;/em&gt;’s ‘Best Places to Work’ for four consecutive years and the Arizona Business Leadership Award in 2010. Sanghi earned his Masters of Science degree in Electrical and Computer Engineering from the University of Massachusetts and his Bachelor of Science degree in Electronics and Communication from Punjab University, India.&lt;/p&gt;
 
-&lt;p&gt;According to Vijay Prakash, a PhD student from NYU Tandon who co-authored the paper, the team found evidence of IoT devices inadvertently exposing at least one piece of PII (personally identifiable information), such as a unique hardware address (MAC), UUID or unique device name, in thousands of real-world smart homes. Any single PII is useful for identifying a household, but combining three of them together makes a house very unique and easily identifiable, Prakash said.&lt;/p&gt;
+&lt;p&gt;This year’s GSA Awards Celebration is forecast to attract more than 1500 leaders to celebrate the accomplishments of this industry and honour the best-performing companies and top leaders. Each year the GSA recognises companies that have demonstrated excellence through their vision, strategy, execution and future opportunity. The celebration honours the achievements of semiconductor companies in several categories, from outstanding leadership to financial accomplishments, as well as overall respect within the industry.&lt;/p&gt;
 
-&lt;p&gt;“For comparison, if a person is fingerprinted using the simplest browser fingerprinting technique, they are as unique as one in 1500 people. If a smart home with all three types of identifiers is fingerprinted, it is as unique as one in 1.12 million smart homes,” Prakash said.&lt;/p&gt;
-
-&lt;p&gt;These local network protocols can be employed as side channels to access data that is supposedly protected by several mobile app permissions, such as household locations.&lt;/p&gt;
-
-&lt;p&gt;“A side channel is a sneaky way of indirectly accessing sensitive data. For example, Android app developers are supposed to request and obtain users’ consent to access data like geolocation. However, we have shown that certain spyware apps and advertising companies do abuse local network protocols to silently access such sensitive information without any user awareness. All they have to do is kindly ask for it [from] other IoT devices deployed in the local network using standard protocols like UPnP,” said Narseo Vallina-Rodriguez, Associate Research Professor of IMDEA Networks and co-founder of AppCensus.&lt;/p&gt;
-
-&lt;p&gt;“Our study shows that the local network protocols used by IoT devices are not sufficiently protected and expose sensitive information about the home and the use we make of the devices. This information is being collected in an opaque way and makes it easier to create profiles of our habits or socioeconomic level,” added Juan Tapiador, Professor at UC3M.&lt;/p&gt;
-
-&lt;p&gt;The impact of the research extends far beyond academia. The team’s findings underscore the imperative for manufacturers, software developers, IoT and mobile platform operators, and policymakers to take action to enhance the privacy and security guarantees of smart home devices and households. The research team responsibly disclosed these issues to vulnerable IoT device vendors and to Google’s Android Security Team, already triggering security improvements in some of these products.&lt;/p&gt;
-
-&lt;p&gt;&lt;h9&gt;Image credit: iStock.com/yucelyilmaz&lt;/h9&gt;&lt;/p&gt;
+&lt;p&gt;&lt;h9&gt;Image credit: Business Wire&lt;/h9&gt;&lt;/p&gt;
 </description>
-      <pubDate>Mon, 30 Oct 2023 00:00:00 +1100</pubDate>
-      <link>https://www.ecdonline.com.au/content/automation-security-control/article/exposing-the-vulnerabilities-of-smart-homes-619733071</link>
-      <guid isPermaLink="true">https://www.ecdonline.com.au/content/automation-security-control/article/exposing-the-vulnerabilities-of-smart-homes-619733071</guid>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +1100</pubDate>
+      <link>https://www.electronicsonline.net.au/content/business/news/global-semiconductor-alliance-announces-recipient-of-exemplary-leadership-award-1389909548?utm_source=rss</link>
+      <guid isPermaLink="true">https://www.electronicsonline.net.au/content/business/news/global-semiconductor-alliance-announces-recipient-of-exemplary-leadership-award-1389909548?utm_source=rss</guid>
     </item>
     <item>
-      <title>Lift companies charged over death of apprentice electrician</title>
-      <description>&lt;img class="img-responsive" src="https://d1v1e13ebw3o15.cloudfront.net/data/79378/pool_and_spa_logo/..jpg"  style="display: block; margin: auto" &gt;   &lt;p&gt;&lt;a href="https://www.esv.vic.gov.au/" target="_blank"&gt;Energy Safe Victoria&lt;/a&gt; has charged two lift companies and their directors under the &lt;em&gt;Electricity Safety Act 1998&lt;/em&gt; for offences relating to the death of a fourth-year apprentice electrician. At the time of his death in March 2021, the apprentice was working unsupervised on a car lift.&lt;/p&gt;
+      <title>Beyond qubits: unlocking the potential of quantum computing</title>
+      &lt;img class="img-responsive" src="https://d1v1e13ebw3o15.cloudfront.net/data/80029/pool_and_spa_logo/..jpg"&gt; &lt;p&gt;Quantum computers are powerful computational devices that rely on quantum mechanics, or the science of how particles like electrons and atoms interact with the world around them. These devices could be used to solve certain kinds of computational problems in a shorter amount of time, with scientists hoping that quantum computing could be the next great advance in computing. However, existing limitations have prevented the technology from hitting its true potential — for these computers to work, the basic unit of information integral to their operation, known as quantum bits (or qubits), needs to be stable and fast.&lt;/p&gt;
 
-&lt;p&gt;The alleged offences include charges relating to failing to provide effective supervision for the apprentice electrician and working on energised electrical equipment.&lt;/p&gt;
+&lt;p&gt;Qubits are represented by simple binary quantum states and by various physical implementations. One candidate is a trapped electron that levitates in a vacuum. However, controlling the quantum states, especially the vibrational motions, of trapped electrons can be difficult. In a paper published in &lt;a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.033245" target="_blank"&gt;&lt;em&gt;Physical Review Research&lt;/em&gt;&lt;/a&gt;, researchers identified possible solutions to some of the limitations of qubits for quantum computing. The researchers looked at two different hybrid quantum systems: an electron-superconducting circuit and an electron–ion coupled system. Both systems were able to control the temperature and the movement of the electron.&lt;/p&gt;
 
-&lt;p&gt;It is alleged the 21-year-old died after coming into contact with an energised piece of electrical equipment in a West Melbourne apartment block.&lt;/p&gt;
+&lt;p&gt;Assistant Professor Alto Osada at the Komaba Institute for Science at the University of Tokyo said that the researchers found a way to cool down and measure the motion of an electron levitated in a vacuum, or a trapped electron, both in the quantum regime. “With the feasibility of quantum-level control of the motion of trapped electrons, the trapped electron becomes more promising and attractive for quantum-technology applications, such as quantum computing,” Osada said.&lt;/p&gt;
 
-&lt;p&gt;The matters are listed for mention at the Melbourne Magistrates Court on 16 November 2023.&lt;/p&gt;
+&lt;p&gt;The proposed systems that the researchers focused on included an electron trapped in a vacuum called a Paul trap interacting with superconducting circuits and a trapped ion. Because ions are positively charged and electrons are negatively charged, when they are trapped together, they move toward each other because of a phenomenon called Coulomb attraction. Because the electron has such a light mass, the interactions between the electron and circuit and the electron and the ion were particularly strong. The researchers also found that they could control the temperature of the electron using microwave fields and optical lasers.&lt;/p&gt;
 
-&lt;p&gt;&lt;h9&gt;Image credit: iStock.com/artisteer&lt;/h9&gt;&lt;/p&gt;
+&lt;p&gt;The researchers also measured the success of their calculations through the phonon mode of the electron. Phonon refers to a unit of energy that characterises a vibration, or in this case, the oscillation of the trapped electron. The desirable result was a single-phonon readout and ground-state cooling (the frozen state of the electron). Researchers were able to accomplish these through their two hybrid systems they analysed. “Highly efficient and high-fidelity quantum operations are available in the trapped-electron system. This novel system manifests itself as a new playground for the development of quantum technologies,” Osada said.&lt;/p&gt;
+
+&lt;p&gt;The researchers noted that additional experimental research will need to be done to see if their methods can be implemented and applied to quantum computing. They also plan to demonstrate their idea with a proof-of-concept experiment. “We are planning to examine our schemes using electrons trapped in a microwave cavity. Through this research, we will be able to get another step closer toward precise quantum operations and toward the implementation of quantum computation,” Osada said.&lt;/p&gt;
+
+&lt;p&gt;&lt;h9&gt;Image credit: iStock.com/hh5800&lt;/h9&gt;&lt;/p&gt;
 </description>
-      <pubDate>Fri, 27 Oct 2023 00:00:00 +1100</pubDate>
-      <link>https://www.ecdonline.com.au/content/business-and-management/news/lift-companies-charged-over-death-of-apprentice-electrician-744044618</link>
-      <guid isPermaLink="true">https://www.ecdonline.com.au/content/business-and-management/news/lift-companies-charged-over-death-of-apprentice-electrician-744044618</guid>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +1100</pubDate>
+      <link>https://www.electronicsonline.net.au/content/components/news/beyond-qubits-unlocking-the-potential-of-quantum-computing-116148376?utm_source=rss</link>
+      <guid isPermaLink="true">https://www.electronicsonline.net.au/content/components/news/beyond-qubits-unlocking-the-potential-of-quantum-computing-116148376?utm_source=rss</guid>
     </item>
     <item>
-      <title>EnergyAustralia signs wind farm offtake agreement</title>
-      <description>&lt;img class="img-responsive" src="https://d1v1e13ebw3o15.cloudfront.net/data/79286/pool_and_spa_logo/..jpg"  style="display: block; margin: auto" &gt;   &lt;p&gt;Renewable energy developer &lt;a href="https://genexpower.com.au/" target="_blank"&gt;Genex Power Limited&lt;/a&gt; has entered into a 10-year power purchase agreement with &lt;a href="https://www.energyaustralia.com.au/" target="_blank"&gt;EnergyAustralia&lt;/a&gt; for the 258 MW Kidston Stage 3 Wind Project (K3W), through Genex’s wholly owned subsidiary K3W Project Co. Pty Ltd.&lt;/p&gt;
+      <title>3D printing micrometre-sized parts in the blink of an eye</title>
+      &lt;img class="img-responsive" src="https://d1v1e13ebw3o15.cloudfront.net/data/80029/pool_and_spa_logo/..jpg"&gt; &lt;p&gt;A research team from the Queensland University of Technology (QUT), the Karlsruhe Institute of Technology (KIT), and Heidelberg University have developed a laser printing process that can print micrometre-sized parts precisely and quickly. The international team published its research findings in &lt;a href="https://www.nature.com/articles/s41566-022-01081-0" target="_blank"&gt;&lt;em&gt;Nature Photonics&lt;/em&gt;&lt;/a&gt;. Stereolithography 3D printing is a popular additive manufacturing process for plastics, both for private and industrial applications. In stereolithography, the layers of a 3D object are projected one by one into a container filled with resin. The resin is cured by UV light. However, previous stereolithography methods are slow and have too low a resolution. Light-sheet 3D printing, which is used by the QUT researchers, is a fast and high-resolution alternative.&lt;/p&gt;
 
-&lt;p&gt;This follows the first offtake Genex signed with EnergyAustralia, for the 250 MW Kidston Pumped Storage Hydro project in 2020.&lt;/p&gt;
+&lt;p&gt;In light-sheet 3D printing, blue light is projected into a container filled with a liquid resin. The blue light pre-activates the resin. In a second stage, a red laser beam provides the additional energy needed to cure the resin. However, 3D printing can only print resins that quickly return from their pre-activated state to their original state. Only then can the next layer be printed. Consequently, the return time dictates the waiting time between two successive layers and thus the printing speed. First author Vincent Hahn from KIT’s Institute of Applied Physics (APH) said that for the resin used by the researchers, the return time was less than 100 microseconds, which allowed for high printing speeds.&lt;/p&gt;
 
-&lt;p&gt;The two projects form part of Genex’s flagship &lt;a href="https://genexpower.com.au/250mw-kidston-pumped-storage-hydro-project/" target="_blank"&gt;Kidston Clean Energy Hub&lt;/a&gt;, located in north Queensland, which will integrate large-scale solar generation with pumped storage hydro. The Kidston Clean Energy Hub comprises the operating 50 MW stage 1 Solar Project (KS1) and the 250 MW Kidston Pumped Storage Hydro Project (K2-Hydro), with potential for further multi-stage wind and solar projects.&lt;/p&gt;
+&lt;p&gt;To take advantage of this new resin, the researchers built a special 3D printer, in which blue laser diodes were used to project images into the liquid resin using a high-resolution display with a high frame rate. The red laser was formed into a thin “light sheet” beam and crossed the blue beam vertically in the resin. With this arrangement, the researchers were able to 3D print micrometre-sized parts in a few hundred milliseconds. However, Professor Martin Wegener of APH said that with more sensitive resins, the researchers could even use LEDs instead of lasers in their 3D printer. “Ultimately, we want to print 3D structures that are centimetres in size, while maintaining micrometre resolution and high printing speeds,” Wegener said.&lt;/p&gt;
 
-&lt;p&gt;K3W is being developed by Genex in a 50:50 partnership with Electric Power Development Co., Ltd (J-POWER).&lt;/p&gt;
+&lt;p&gt;The publication was produced within the framework of the joint &lt;a href="https://www.3dmattermadetoorder.kit.edu/" target="_blank"&gt;“3D Matter Made to Order”&lt;/a&gt; Cluster of Excellence of the KIT and Heidelberg University.&lt;/p&gt;
 
-&lt;p&gt;The agreement with EnergyAustralia secures the offtake of 30% of the K3W project’s output of wind energy and large-scale generation certificates at a fixed price, over a 10-year term from commencement of operations. (The fixed price is subject to annual escalation in accordance with movements in the consumer price index.)&lt;/p&gt;
-
-&lt;p&gt;“The execution of this power purchase agreement with EnergyAustralia represents a significant milestone for the development of the 258 MW Kidston Stage 3 Wind Project, the third stage of the Kidston Clean Energy Hub,” said Genex CEO Craig Francis.&lt;/p&gt;
-
-&lt;p&gt;“Securing 30% of the offtake capacity of the project with such a high-quality partner in EnergyAustralia signifies a material step in mitigating project risk.”&lt;/p&gt;
-
-&lt;p&gt;EnergyAustralia Managing Director Mark Collette said the energy retailer and generator was pleased to expand its successful partnership with Genex by supporting the Kidston Stage 3 Wind Project, which would bring it a step closer to its goal of up to 3 GW of renewable energy committed or in operation by 2030.&lt;/p&gt;
-
-&lt;p&gt;“Both Kidston Wind and the Kidston Pumped Storage Hydro Project are important steps in delivering EnergyAustralia’s purpose to lead and accelerate the clean energy transformation for all,” Collette said.&lt;/p&gt;
-
-&lt;p&gt;&lt;h9&gt;Image credit: iStock.com/Totojang&lt;/h9&gt;&lt;/p&gt;
+&lt;p&gt;&lt;h9&gt;Image credit: Vincent Hahn, KIT&lt;/h9&gt;&lt;/p&gt;
 </description>
-      <pubDate>Wed, 25 Oct 2023 00:00:00 +1100</pubDate>
-      <link>https://www.ecdonline.com.au/content/efficiency-renewables/news/energyaustralia-signs-wind-farm-offtake-agreement-1187832243</link>
-      <guid isPermaLink="true">https://www.ecdonline.com.au/content/efficiency-renewables/news/energyaustralia-signs-wind-farm-offtake-agreement-1187832243</guid>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +1100</pubDate>
+      <link>https://www.electronicsonline.net.au/content/assembly/news/3d-printing-micrometre-sized-parts-in-the-blink-of-an-eye-614379126?utm_source=rss</link>
+      <guid isPermaLink="true">https://www.electronicsonline.net.au/content/assembly/news/3d-printing-micrometre-sized-parts-in-the-blink-of-an-eye-614379126?utm_source=rss</guid>
     </item>
     <item>
-      <title>Telstra becomes early adopter of hydrogen energy</title>
-      <description>&lt;img class="img-responsive" src="https://d1v1e13ebw3o15.cloudfront.net/data/79287/pool_and_spa_logo/..jpg"  style="display: block; margin: auto" &gt;   &lt;p&gt;As part of a co-funded pilot project with the Victorian Government, &lt;a href="https://www.telstra.com.au/" target="_blank"&gt;Telstra&lt;/a&gt; will install backup hydrogen generators at five sites in outer-regional Victoria, which has a history of storm-related power blackouts.&lt;/p&gt;
+      <title>MEMPHIS Electronic DDR5 memory modules</title>
+      <description>&lt;p&gt;MEMPHIS Electronic, a specialised distributor of memory ICs, DRAM modules and flash solutions, has launched a family of DDR5 memory modules in commercial and industrial temperature ranges. Samples are available in late Q4 and will be on display at electronica 2022.&lt;/p&gt;
 
-&lt;p&gt;Australian ‘green hydrogen’ company &lt;a href="https://energys.com.au/" target="_blank"&gt;Energys&lt;/a&gt; has presented the first of five Hydrogen Fuel Cell Generators manufactured for Telstra as part of this alternative energy backup project.&lt;/p&gt;
+&lt;p&gt;With artificial intelligence and Internet of Things applications becoming ubiquitous, the need for high-speed, high-capacity memory in industrial applications is increasing rapidly. Addressing this demand, MEMPHIS Electronic has configured DDR5 modules with 16 and 32 GB capacities and 5600 MHz clock frequency. The modules are based on Samsung’s DDR5 chipsets and come in SO-DIMM and UDIMM form factors with and without error correction code (ECC).&lt;/p&gt;
 
-&lt;p&gt;The generators are designed as a drop-in replacement for traditional diesel electric generators, which will gradually be phased out as the world strives to meet emissions targets.&lt;/p&gt;
+&lt;p&gt;To be able to deliver a consistently stable quality, MEMPHIS has developed its own PCBs and its JEDEC standardised modules have a fixed bill of materials over their entire lifespan.&lt;/p&gt;
 
-&lt;p&gt;While hydrogen fuel cells have been used in niche applications since the mid-20th century, the abundance of fossil fuels has limited their wider commercial adoption. With rising fuel prices and the need to cut emissions, many forward-thinking companies are working to include hydrogen in their future energy roadmap.&lt;/p&gt;
-
-&lt;p&gt;Energys’s fuel cell generator delivers 10 kilowatts of AC power using hydrogen gas as a fuel source. The hydrogen is passed through the fuel cell, which undergoes an electrochemical reaction, producing electricity. The only by-product of this reaction is pure water vapour, which can be released harmlessly into the environment.&lt;/p&gt;
-
-&lt;p&gt;Designed and manufactured in Victoria, the Hydrogen Fuel Cell Generator is the result of seven years of research and development. It has been designed specifically for large-scale manufacture using Energys’s proprietary engine design.&lt;/p&gt;
-
-&lt;p&gt;“We’re supporting the state’s emerging renewable hydrogen sector to play a key part in our transition to 95% renewable energy by 2035,” said Minister for Climate Action and Minister for Energy and Resources Lily D’Ambrosio MP, who attended the unveiling of the first Energys fuel cell generator.&lt;/p&gt;
-
-&lt;p&gt;“This innovative project uses renewable energy to keep the power running during an emergency, helping to maintain vital telecommunications, which is critical as we encounter more frequent extreme weather events,” D’Ambrosio said.&lt;/p&gt;
-
-&lt;p&gt;&lt;h9&gt;Image caption: Lily D’Ambrosio MP (centre) attends the unveiling of the first Hydrogen Fuel Cell Generator designed by Energys for Telstra. Image: Supplied&lt;/h9&gt;.&lt;/p&gt;
+&lt;p&gt;Visitors at electronica 2022 in Munich can see samples of the new DDR5 modules from 15 to 18 November at the MEMPHIS booth in hall B4, booth 439.&lt;/p&gt;
 </description>
-      <pubDate>Wed, 25 Oct 2023 00:00:00 +1100</pubDate>
-      <link>https://www.ecdonline.com.au/content/efficiency-renewables/news/telstra-becomes-early-adopter-of-hydrogen-energy-34900539</link>
-      <guid isPermaLink="true">https://www.ecdonline.com.au/content/efficiency-renewables/news/telstra-becomes-early-adopter-of-hydrogen-energy-34900539</guid>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +1100</pubDate>
+      <link>https://www.electronicsonline.net.au/content/components/product/memphis-electronic-ddr5-memory-modules-373776295?utm_source=rss</link>
+      <guid isPermaLink="true">https://www.electronicsonline.net.au/content/components/product/memphis-electronic-ddr5-memory-modules-373776295?utm_source=rss</guid>
     </item>
     <item>
-      <title>Transforming home security through AI</title>
-      <description>&lt;img class="img-responsive" src="https://d1v1e13ebw3o15.cloudfront.net/data/79257/pool_and_spa_logo/..jpg"  style="display: block; margin: auto" &gt;   &lt;p&gt;For the first time in over a decade, home break-ins are on the rise, according to data from the Australian Bureau of Statistics (ABS).&lt;sup&gt;1&lt;/sup&gt; In 2022, 2% of Australian homes — equating to 194,100 households — experienced a break-in.&lt;/p&gt;
+      <title>Dytran model 3184F rugged industrial accelerometer</title>
+      <description>&lt;p&gt;The Dytran model 3184F is a rugged IEPE piezoelectric accelerometer with a built-in Faraday shield for electrostatic noise immunity, a sensitivity of 100 mV/g and a good low-frequency response.&lt;/p&gt;
 
-&lt;p&gt;While community programs and laws will always have a role in keeping homes safe, new technology can provide an important extra layer of security. Artificial intelligence (AI), in particular, can make home security smarter, according to telecommunications company &lt;a href="https://uniden.com.au/" target="_blank"&gt;Uniden&lt;/a&gt;. Unlike old systems, AI security can learn what’s normal for a home. For example, AI notifications can focus specifically on a pet, human or car in the driveway. This tailored approach can drastically reduce false alarms, making it more likely that only relevant alerts reach homeowners.&lt;/p&gt;
+&lt;p&gt;The model incorporates a ceramic shear sensing element, packaged in a stainless steel housing with a 2-pin MIL-C-5015 axial connector. It is also directly compatible with the series 6194 Immersion Proof sealing boot. When used together, the sensor remains fully functional in an IP65 environment. Case isolated to avoid EMI/ground loop interference, the product is hermetically sealed for operation in high humidity and dirty environments.&lt;/p&gt;
 
-&lt;p&gt;Uniden has identified some key features of AI-equipped devices and how they can help enhance home security:&lt;/p&gt;
-
-&lt;h4&gt;Intelligent surveillance and sensitivity settings&lt;/h4&gt;
-
-&lt;p&gt;AI-powered cameras can detect motion and understand its context, with users able to adjust sensitivity settings, focus on specific areas or rely on thermo sense technology to identify different types of movement. These settings can significantly reduce the number of false alarms.&lt;/p&gt;
-
-&lt;h4&gt;3K resolution for refined detail&lt;/h4&gt;
-
-&lt;p&gt;An AI-powered camera with an ultra-3K lens resolution offers the ability to zoom in and capture high-quality footage in intricate detail, enabling a clear view of what’s happening on a property.&lt;/p&gt;
-
-&lt;h4&gt;AI-enhanced dual lens for a comprehensive view&lt;/h4&gt;
-
-&lt;p&gt;Thanks to dual lens hardware, modern security cameras can seamlessly merge two videos into one expansive image, offering a 170-degree-wide field of view. This technology captures a more extensive view than traditional security cameras permit. Additionally, the enhanced visuals can trigger AI-powered notifications for specific detections like pets, humans and more.&lt;/p&gt;
-
-&lt;h4&gt;Spotlight and intelligent colour night vision&lt;/h4&gt;
-
-&lt;p&gt;Cameras equipped with a powerful 440 lumens spotlight activate when the camera detects a person or vehicle, illuminating the area and adding colour to night vision footage up to 30 metres away. This AI-powered feature acts as a deterrent to intruders while ensuring that any alerts received are worth checking immediately.&lt;/p&gt;
-
-&lt;h4&gt;Two-way communication with privacy masking&lt;/h4&gt;
-
-&lt;p&gt;Two-way communication helps a user monitor their property in 3K quality from anywhere in the world, allowing them to interact with visitors or oversee deliveries when away from home. Additionally, the privacy marking setting offers the option to black out areas a homeowner doesn’t want recorded. This allows surveillance to be focused where it’s most needed, such as the front and back doors, where most people enter and exit the building.&lt;/p&gt;
-
-&lt;p&gt;For more information, visit &lt;a href="https://uniden.com.au/" target="_blank"&gt;www.uniden.com.au&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;sub&gt;1. &lt;a href="https://www.abs.gov.au/media-centre/media-releases/break-ins-increase-after-record-low" target="_blank"&gt;https://www.abs.gov.au/media-centre/media-releases/break-ins-increase-after-record-low&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h9&gt;Image credit: iStock.com/onurdongel&lt;/h9&gt;&lt;/p&gt;
+&lt;p&gt;The device has a 50g range and EMI/RFI protection. It weighs 135 g and operates at temperatures from -4.5 to +70°C. Applications include industrial vibration monitoring, turbo engine testing, walkabout data collection and general-purpose vibration monitoring.&lt;/p&gt;
 </description>
-      <pubDate>Tue, 24 Oct 2023 00:00:00 +1100</pubDate>
-      <link>https://www.ecdonline.com.au/content/automation-security-control/article/transforming-home-security-through-ai-1154920811</link>
-      <guid isPermaLink="true">https://www.ecdonline.com.au/content/automation-security-control/article/transforming-home-security-through-ai-1154920811</guid>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +1100</pubDate>
+      <link>https://www.electronicsonline.net.au/content/sensors/product/dytran-model-3184f-rugged-industrial-accelerometer-282814833?utm_source=rss</link>
+      <guid isPermaLink="true">https://www.electronicsonline.net.au/content/sensors/product/dytran-model-3184f-rugged-industrial-accelerometer-282814833?utm_source=rss</guid>
     </item>
     <item>
-      <title>Urgent recall of dangerous solar batteries</title>
-      <description>&lt;img class="img-responsive" src="https://d1v1e13ebw3o15.cloudfront.net/data/79260/pool_and_spa_logo/..jpg"  style="display: block; margin: auto" &gt;   &lt;p&gt;LG has issued an urgent recall for LG-branded batteries stored in some Australian residential solar storage systems.&lt;/p&gt;
+      <title>Antenova Invicta SRFW082 antenna</title>
+      <description>&lt;p&gt;Antenova Ltd, a manufacturer of antennas and RF antenna modules for IoT and M2M, has released Invicta SRFW082, a compact and efficient antenna for Wi-Fi, Bluetooth and ZigBee frequencies at 2.4–2.5 GHz. The antenna averages efficiency of 70% across the 2.4 GHz band. Consequently, designs using this antenna can operate better, over longer distances and through walls and obstacles, thus extending the coverage and performance of wireless devices using Bluetooth, Wi-Fi and ZigBee.&lt;/p&gt;
 
-&lt;p&gt;The recall includes 13 specific LG battery models at risk of overheating, catching fire and causing damage to property, serious injury or death.&lt;/p&gt;
+&lt;p&gt;The flexible printed circuit (FPC) antenna is easy to place in a design and connects directly to the PCB via a cable and IPX MHF (UFL) connector. The antenna comes with 100 mm cable as standard and other cable lengths and connector options are available on request. An FPC antenna is different to an SMD antenna in that it operates independent to a ground plane length and no antenna matching is required, so the design cycle for Invicta is simpler and shorter. The FPC antenna also makes for easier manufacturing, as it is fixed in place by a self-adhesive strip and can be curved and inserted into the case of a design. This style of antenna is suitable for small to medium volume manufacturing.&lt;/p&gt;
 
-&lt;p&gt;These defective batteries may be installed in LG-branded solar systems including RESU or in non-LG systems including SolaX Power Station, Opal Storage and Eguana Evolve.&lt;/p&gt;
-
-&lt;p&gt;The Product Safety Australia &lt;a href="https://www.productsafety.gov.au/recalls/lg-energy-solution-australia-pty-ltd-formerly-lg-chem-australia-pty-ltd-%E2%80%94-lg-ess-home-energy-storage-system-batteries" target="_blank"&gt;website&lt;/a&gt; provides a full list of the affected LG battery models, as well as systems the battery may be installed in and how to check if one of the recalled batteries is installed in your residential solar system.&lt;/p&gt;
-
-&lt;p&gt;Those with a product listed for recall should immediately switch the battery off and contact LG Energy Solution by calling 1300 677 273 or emailing &lt;a href="mailto:productau@lgensol.com"&gt;productau@lgensol.com&lt;/a&gt; for advice and support.&lt;/p&gt;
-
-&lt;p&gt;LG will organise a remote or onsite visit by a technician to shut down and replace the batteries at no charge. Consumers may be able to alternatively request a refund for the product.&lt;/p&gt;
-
-&lt;p&gt;LG will also compensate customers if their power bill increases during the time their battery is shut down and a new model is installed.&lt;/p&gt;
-
-&lt;p&gt;NSW Fair Trading Commissioner Natasha Mann said that the defective batteries have been sold across Australia by several solar system companies since 2017.&lt;/p&gt;
-
-&lt;p&gt;“If you have a solar storage system installed, you may have one of these potentially dangerous products and not know it,” she said.&lt;/p&gt;
-
-&lt;p&gt;“Please take a minute to inspect the batteries as soon as possible. If you are affected by the recall, don’t panic, turn off the battery and contact LG straight away.”&lt;/p&gt;
-
-&lt;p&gt;&lt;h9&gt;Image credit: iStock.com/serazetdinov&lt;/h9&gt;&lt;/p&gt;
+&lt;p&gt;The antenna is designed primarily for smart battery-powered devices for the home and office, where one single device provides global coverage. Typical applications in the home would be smart meters, home automation, wireless sensor networks and smoke and intruder alarms. It could also be used for remote monitoring in industrial and medical environments. The antenna is designed to perform better than PCB trace antennas, while providing performance and range in return for taking up a relatively small space in a design.&lt;/p&gt;
 </description>
-      <pubDate>Tue, 24 Oct 2023 00:00:00 +1100</pubDate>
-      <link>https://www.ecdonline.com.au/content/business-and-management/news/urgent-recall-of-dangerous-solar-batteries-1568637849</link>
-      <guid isPermaLink="true">https://www.ecdonline.com.au/content/business-and-management/news/urgent-recall-of-dangerous-solar-batteries-1568637849</guid>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +1100</pubDate>
+      <link>https://www.electronicsonline.net.au/content/components/product/antenova-invicta-srfw082-antenna-1128608275?utm_source=rss</link>
+      <guid isPermaLink="true">https://www.electronicsonline.net.au/content/components/product/antenova-invicta-srfw082-antenna-1128608275?utm_source=rss</guid>
     </item>
     <item>
-      <title>Uniden App Cam SOLO PANO Kit</title>
-      <description>&lt;img class="img-responsive" src=""&lt;p&gt;Uniden’s App Cam SOLO Pano Kit is an intelligent security system offering a range of AI features designed for Australian conditions.&lt;/p&gt;
+      <title>CEA&amp;#39;s RF chip enables IoT connectivity for remote devices</title>
+      &lt;img class="img-responsive" src="https://d1v1e13ebw3o15.cloudfront.net/data/80029/pool_and_spa_logo/..jpg"&gt; &lt;p&gt;&lt;a href="https://www.cea.fr/english/Pages/Welcome.aspx" target="_blank"&gt;CEA&lt;/a&gt;, a French technology-research organisation, and &lt;a href="https://www.astrocast.com/" target="_blank"&gt;Astrocast&lt;/a&gt;, a global satellite Internet of Things network operator, have announced their successful collaboration on a low-cost, bidirectional communication module that enables corporations to communicate with their remote assets in areas not covered by terrestrial networks.&lt;/p&gt;
 
-&lt;p&gt;The weatherproof device has a 440 lumens spotlight, a 170-degree-wide field of view and a 3K lens resolution to capture high-quality footage when most needed. With this detection technology, the App Cam SOLO Pano Kit alerts users through instant-push notifications via the Uniden SOLO app, thus reducing the number of false alarms.&lt;/p&gt;
+&lt;p&gt;The module’s L-band chip, based on a new architecture developed by CEA’s Laboratory of Electronics Information Technology (&lt;a href="https://www.leti-cea.com/cea-tech/leti/english/Pages/Welcome.aspx" target="_blank"&gt;CEA-Leti&lt;/a&gt;), is a key hardware component that enables Astrocast customers to benefit from cost-efficient communication with their assets in the field through its network. Completed earlier this year in an expedited project between the research institute and Astrocast, it is embedded in Astrocast’s RF module, Astronode S.&lt;/p&gt;
 
-&lt;p&gt;Uniden offers free seven-day cloud storage, which rolls over for the life of the product. This cloud-based storage saves motion-triggered recordings, so users receive relevant footage without the clutter, making it simpler to find and review key events.&lt;/p&gt;
+&lt;p&gt;The chip’s architecture is split over the RF core and digital processing and control units. It is fully optimised to support Astrocast’s dedicated bidirectional ground-to-satellite protocol and provides an optimal trade-off between link budget and low-power and low-cost constraints. The chip also embeds all low-Earth orbit (LEO), satellite-specific features such as satellite detection and robustness to Doppler shift.&lt;/p&gt;
 
-&lt;p&gt;The system’s wire-free over Wi-Fi capability is designed so that both homeowners and renters can easily install it without worrying about ongoing subscription costs.&lt;/p&gt;
+&lt;p&gt;The miniaturised, surface-mount module communicates with terrestrial devices via Astrocast’s constellation of LEO satellites. Using the L-band spectrum, the network primarily targets maritime, oil and gas, agriculture, land transport and environmental applications in which ubiquitous coverage is required.&lt;/p&gt;
+
+&lt;p&gt;“Terrestrial IoT networks cover only about 15%, which leaves vast remote and rural areas where our global satellite network provides coverage that is crucial for our target markets,” said Laurent Vieira de Mello, COO, Astrocast. “Leveraging its expertise embedded in a preliminary version of the RF chip, CEA-Leti developed its chip and delivered the final prototype to meet our requirements and time-to-market goals. They managed the chip technology transfer to our industrialisation, qualification and production partner.”&lt;/p&gt;
+
+&lt;p&gt;The project’s critical time-to-market window was managed through a flexible collaboration model covering both prototype and industrialisation phases. As explained by Michel Durr, Business Development Manager at CEA-Leti, “An accelerated time-to-market goal drove this project from the outset. We pioneered this RF technology in 2019, and our team customised it for Astrocast up to production in only three years.”&lt;/p&gt;
+
+&lt;p&gt;CEA-Leti’s industrial tester used for characterisation was key to accelerating from prototype to production, which enabled prototype characterisation in parallel on the tester and in the lab, Durr explained. He said, “This process provided a short-loop debug capability with all skills available at CEA-Leti, and enabled us to deliver fully validated inputs to Astrocast’s industrialisation partner for an easier industrial test-program development.”&lt;/p&gt;
+
+&lt;p&gt;&lt;h9&gt;Image ©Astrocast&lt;/h9&gt;&lt;/p&gt;
 </description>
-      <pubDate>Mon, 23 Oct 2023 00:00:00 +1100</pubDate>
-      <link>https://www.ecdonline.com.au/content/automation-security-control/product/uniden-app-cam-solo-pano-kit-725988117</link>
-      <guid isPermaLink="true">https://www.ecdonline.com.au/content/automation-security-control/product/uniden-app-cam-solo-pano-kit-725988117</guid>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +1100</pubDate>
+      <link>https://www.electronicsonline.net.au/content/components/news/cea-s-rf-chip-enables-iot-connectivity-for-remote-devices-1025547254?utm_source=rss</link>
+      <guid isPermaLink="true">https://www.electronicsonline.net.au/content/components/news/cea-s-rf-chip-enables-iot-connectivity-for-remote-devices-1025547254?utm_source=rss</guid>
     </item>
     <item>
-      <title>Electrician pleads guilty over explosion risk</title>
-      <description>&lt;img class="img-responsive" src="https://d1v1e13ebw3o15.cloudfront.net/data/79228/pool_and_spa_logo/..jpg"  style="display: block; margin: auto" &gt;   &lt;p&gt;An electrician from Western Australia’s South West region has pleaded guilty to two charges under WA’s electricity licensing regulations and ordered to pay $11,000 in fines and costs for a dangerous installation that could have caused a hydrogen explosion.&lt;/p&gt;
+      <title>Light-activated smart plastic a step towards flexible electronics</title>
+      &lt;img class="img-responsive" src="https://d1v1e13ebw3o15.cloudfront.net/data/80029/pool_and_spa_logo/..jpg"&gt; &lt;p&gt;Researchers at &lt;a href="https://www.utexas.edu/" target="_blank"&gt;The University of Texas at Austin&lt;/a&gt; set out to create a plastic that is hard and rigid in some places and soft and stretchy in others, by using only light and a catalyst to change properties such as hardness and elasticity in molecules of the same type. In doing do, the researchers succeeded in developing a new material that is reportedly 10 times as tough as natural rubber, that could lead to more flexible electronics and robotics. The research findings were published in the journal &lt;a href="https://www.science.org/doi/10.1126/science.add6975" target="_blank"&gt;&lt;em&gt;Science&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;In March 2021, the electrician attended a property in Scott River East, near Augusta and Nannup, to install inverter chargers in a standalone power system.&lt;/p&gt;
+&lt;p&gt;Zachariah Page, a corresponding author on the paper, said that the ability to control crystallisation, and therefore the physical properties of the material, with the application of light, could be transformative for wearable electronics or actuators in soft robotics. “This is the first material of its type,” Page said.&lt;/p&gt;
 
-&lt;p&gt;The system involved storing solar energy in a bank of vented lead–acid batteries, which produce potentially explosive hydrogen gas when they are recharging. The electrician installed the inverter chargers, which can be an ignition source for this gas, near the exposed lead–acid battery bank.&lt;/p&gt;
+&lt;p&gt;Scientists have long sought to mimic the properties of living structures, like skin and muscle, with synthetic materials. In living organisms, structures often combine strength and flexibility with ease. When using a mix of different synthetic materials to mimic these attributes, materials can often fail, come apart and rip at the junctures between different materials. “Oftentimes, when bringing materials together, particularly if they have very different mechanical properties, they want to come apart,” Page said.&lt;/p&gt;
 
-&lt;p&gt;An investigation by WA safety regulator &lt;a href="https://www.commerce.wa.gov.au/building-and-energy" target="_blank"&gt;Building and Energy&lt;/a&gt; found that the electrician’s installation of the inverter charger did not comply with electrical wiring rules that require protection against ignition when electrical equipment is installed in areas where explosive gases may be present.&lt;/p&gt;
+&lt;p&gt;Page and his team of researchers were able to control and change the structure of a plastic-like material, using light to alter how firm or stretchy the material would be. Chemists started with a monomer, a small molecule that binds with others like it to form the building blocks for larger structures called polymers that were similar to the polymer found in the most commonly used plastic. After testing a dozen catalysts, they found one that, when added to their monomer and shown visible light, resulted in a semicrystalline polymer similar to those found in existing synthetic rubber. A harder and more rigid material was formed in the areas the light touched, while the unlit areas remained soft and stretchy. Because the substance is made of one material with different properties, it was stronger and could be stretched farther than most mixed materials.&lt;/p&gt;
 
-&lt;p&gt;The electrician breached the Electricity (Licensing) Regulations 1991 by not adhering to the wiring rules and, additionally, by submitting an official compliance notice when the installation work was in fact incorrect.&lt;/p&gt;
+&lt;p&gt;This reaction takes place at room temperature, the monomer and catalyst are commercially available, and the researchers used blue LEDs as the light source in the experiment. The reaction also takes less than an hour and minimises use of any hazardous waste, which helps to make the process rapid, inexpensive, energy efficient and environmentally benign. The researchers aim to develop more objects with the material, to continue to test its usability.&lt;/p&gt;
 
-&lt;p&gt;WA’s Director of Energy Safety, Saj Abdoolakhan, said the dangerous installation could have resulted in serious injuries and property damage.&lt;/p&gt;
+&lt;p&gt;The material could potentially be used as a flexible foundation to anchor electronic components in medical devices or wearable tech. In robotics, strong and flexible materials are desirable to improve movement and durability.&lt;/p&gt;
 
-&lt;p&gt;“In this case, hydrogen would have been produced regularly whenever the vented lead–acid batteries were charged by energy from the solar panels,” he said.&lt;/p&gt;
+&lt;p&gt;“We are looking forward to exploring methods of applying this chemistry towards making 3D objects containing both hard and soft components,” said first author Adrian Rylski, a doctoral student at UT Austin.&lt;/p&gt;
 
-&lt;p&gt;“It is pure luck that the chargers did not ignite the gas from the nearby exposed batteries before the danger was identified by a Building and Energy electrical inspector.&lt;/p&gt;
+&lt;p&gt;The research was funded by the National Science Foundation, the US Department of Energy and the Robert A. Welch Foundation.&lt;/p&gt;
 
-&lt;p&gt;On 22 September 2023, Magistrate Andrew Maughan ordered the electrician to pay a global fine of $8000 and $2982.30 in costs. The electrician was granted a spent conviction due to factors such as the guilty plea and no previous electrical offences in a lengthy career.&lt;/p&gt;
-
-&lt;p&gt;Maughan urged tradespeople to accept the real potential for injury from hazards, adding that the incorrect notice charge was also a serious matter due to the diligence expected in self-regulation.&lt;/p&gt;
-
-&lt;p&gt;Abdoolakhan also stressed the importance of licensed electrical contractors and electrical workers taking responsibility for their work.&lt;/p&gt;
-
-&lt;p&gt;“They have to make sure the work they do complies with all the relevant technical safety requirements. They must also submit accurate notices that reflect compulsory checking, testing and compliance,” he said.&lt;/p&gt;
-
-&lt;p&gt;&lt;h9&gt;Image credit: iStock.com/wesvandinter&lt;/h9&gt;&lt;/p&gt;
+&lt;p&gt;&lt;h9&gt;Image credit: Christine Sinatra/The University of Texas at Austin&lt;/h9&gt;&lt;/p&gt;
 </description>
-      <pubDate>Mon, 23 Oct 2023 00:00:00 +1100</pubDate>
-      <link>https://www.ecdonline.com.au/content/business-and-management/news/electrician-pleads-guilty-over-explosion-risk-1175553981</link>
-      <guid isPermaLink="true">https://www.ecdonline.com.au/content/business-and-management/news/electrician-pleads-guilty-over-explosion-risk-1175553981</guid>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +1100</pubDate>
+      <link>https://www.electronicsonline.net.au/content/components/news/light-activated-smart-plastic-a-step-towards-flexible-electronics-1361500692?utm_source=rss</link>
+      <guid isPermaLink="true">https://www.electronicsonline.net.au/content/components/news/light-activated-smart-plastic-a-step-towards-flexible-electronics-1361500692?utm_source=rss</guid>
     </item>
     <item>
-      <title>Virtual power plants for WA schools</title>
-      <description>&lt;img class="img-responsive" src="https://d1v1e13ebw3o15.cloudfront.net/data/79123/pool_and_spa_logo/..jpg"  style="display: block; margin: auto" &gt;   &lt;p&gt;Seven schools in regional Western Australia will receive solar panels and commercial batteries as part of &lt;a href="https://www.synergy.net.au/" target="_blank"&gt;Synergy&lt;/a&gt;’s Schools Virtual Power Plant (VPP) Project.&lt;/p&gt;
+      <title>Cleverscope CS548 isolated channel oscilloscope</title>
+      <description>&lt;p&gt;The CS548 is a 2 kV DC isolated channel oscilloscope that is designed to be useful anywhere isolation and high CMRR are needed — in particular, power electronics. Measurements can be made on gate drives slewing at 100 kV/µs to check gate drive details. Using the CS1200 IsoPod, users can get &amp;lt;30 kV isolation.&lt;/p&gt;
 
-&lt;p&gt;The schools will have solar systems and a commercial-sized battery installed and operational in the 2024 school year.&lt;/p&gt;
+&lt;p&gt;The CS548 supports — via the Cscope4 application — frequency response analysis (using the built-in isolated signal generator), protocol decoding, maths, streaming, Excel and Matlab connectivity, spectrum analysis, mixed signal triggering and display. Each channel is isolated from the other, and ground, to 2 kV working voltage. The common mode rejection ratio is &amp;gt;100 dB at 50 MHz. Cleverscope uses 14-bit ADCs at 500 MSPS to provide a good dynamic range, with a noise floor below 100 dBV. At 10 MHz, Sinad is &amp;gt;60 dB, THD&amp;lt;-76 dBc and HD2+3&amp;lt;-80 dBc. Phase variation between channels is better than ±160ps (on the same range).&lt;/p&gt;
 
-&lt;p&gt;A VPP is a network of energy resources such as rooftop solar panels and batteries that are combined to generate, store and distribute electricity.&lt;/p&gt;
+&lt;p&gt;With the isolated oscilloscope users can view the high side gate drive in a power switch as it is switching. Cleverscope’s CS1090 is designed to show this with FET switches that switch between 0 and 500 V in about 10 ns. The high side gate drive is therefore slewing at 50 kV/µs. Using the Cleverscope4 application, users can measure four channels (with one CS448) or eight channels (with two CS448’s trigger and clock linked) of isolated signals. This is the measured result from the CS1090 HV bridge. Dead time is about 1.077 µs (Markers 1-2). Zooming in enables users to look at the transition itself.&lt;/p&gt;
 
-&lt;p&gt;The VPPs will enable the schools to store the energy generated from their solar systems and better manage energy use, while also helping improve grid stability.&lt;/p&gt;
-
-&lt;p&gt;“The Virtual Power Plant project is a terrific program that is supporting schools in lowering their energy bills, while also stabilising the broader energy system,” said Education Minister Dr Tony Buti.&lt;/p&gt;
-
-&lt;p&gt;“The project offers WA students the chance to learn more about how energy is produced and used — equipping them with STEM skills and knowledge, which is a really important part of their education.”&lt;/p&gt;
-
-&lt;p&gt;The seven regional schools to join the 17-school pilot across Western Australia are variously located in Kalbarri, Geraldton and Kalgoorlie. The regional expansion of the Schools VPP project is funded through the Schools Clean Energy Technology Fund, part of a total $8.8 million state government investment.&lt;/p&gt;
-
-&lt;p&gt;Geraldton MLA Lara Dalton said it was great that three Geraldton schools would be able to experience the many benefits of renewable energy technologies.&lt;/p&gt;
-
-&lt;p&gt;“The Virtual Power Plants at Champion Bay Senior High School, Geraldton Senior High School and Waggrakine Primary School will help reduce their power bills and improve power quality in the community,” Dalton said.&lt;/p&gt;
-
-&lt;p&gt;&lt;h9&gt;Image credit: iStock.com/Halfpoint&lt;/h9&gt;&lt;/p&gt;
+&lt;p&gt;The isolated channel oscilloscope is made for measurements in power electronics systems, including on the high side. It can be used to make measurements of all high-side nodes, do EMC measurements, check out startup behaviour, calculate power loss and switching energy, and examine message contents. It is part of a tool set that is designed to do all the things needed to verify power electronics design and then test it — as a prototype or in production.&lt;/p&gt;
 </description>
-      <pubDate>Wed, 18 Oct 2023 00:00:00 +1100</pubDate>
-      <link>https://www.ecdonline.com.au/content/efficiency-renewables/news/virtual-power-plants-for-wa-schools-1350964856</link>
-      <guid isPermaLink="true">https://www.ecdonline.com.au/content/efficiency-renewables/news/virtual-power-plants-for-wa-schools-1350964856</guid>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +1100</pubDate>
+      <link>https://www.electronicsonline.net.au/content/test-measure/product/cleverscope-cs548-isolated-channel-oscilloscope-818176496?utm_source=rss</link>
+      <guid isPermaLink="true">https://www.electronicsonline.net.au/content/test-measure/product/cleverscope-cs548-isolated-channel-oscilloscope-818176496?utm_source=rss</guid>
     </item>
     <item>
-      <title>Local business recognised for strong apprenticeship record</title>
-      <description>&lt;img class="img-responsive" src="https://d1v1e13ebw3o15.cloudfront.net/data/79124/pool_and_spa_logo/..jpg"  style="display: block; margin: auto" &gt;   &lt;p&gt;An Albury/Wodonga business has been recognised for its supportive and well-rounded training of apprentices.&lt;/p&gt;
+      <title>Electrode material used to enhance all-solid-state sodium batteries</title>
+      &lt;img class="img-responsive" src="https://d1v1e13ebw3o15.cloudfront.net/data/80029/pool_and_spa_logo/..jpg"&gt; &lt;p&gt;A research group led by Associate Professor Atsushi Sakuda, President Masahiro Tatsumisago, and Professor Akitoshi Hayashi at &lt;a href="https://www.upc-osaka.ac.jp/new-univ/en-research/" target="_blank"&gt;Osaka Metropolitan University&lt;/a&gt; have developed a new positive electrode made of Na2FeS2 for all-solid-state sodium batteries. The batteries have a high energy storage capacity and high reversibility, and use inexpensive elements that are readily available. The researchers published their findings in the journal &lt;a href="https://onlinelibrary.wiley.com/doi/10.1002/smll.202203383" target="_blank"&gt;&lt;em&gt;Small&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href="https://boschetti.au/" target="_blank"&gt;Boschetti&lt;/a&gt;, a company dealing in the full spectrum of traditional electrical services as well as the green energy space, has been named as a finalist in the &lt;a href="https://aen.org.au/awards/" target="_blank"&gt;Australian Apprentice Employment Network (AEN) Awards&lt;/a&gt; Large Host Employer category.&lt;/p&gt;
+&lt;p&gt;The batteries using the Na2FeS2 as a positive electrode can be charged and discharged for more than 300 cycles, due to the unique crystal structure of the Na2FeS2 that gives the electrode a long lifespan. Most high-capacity metal sulfide electrodes rely on conversion-type reactions, during which large rearrangements — during charging and discharging — are associated with inhomogeneous reactions and degradation. The Na2FeS2, on the other hand, achieves a high degree of reversibility during charging and discharging, by undergoing insertion-type reactions, which allow the electrode to retain its crystal structure over many cycles.&lt;/p&gt;
 
-&lt;p&gt;The award recognises an employer’s commitment to the Apprenticeship and Group Training system along with the quality of training delivered to apprentices.&lt;/p&gt;
+&lt;p&gt;Sodium-ion batteries — which have a resource advantage over lithium-ion batteries — are attracting attention as cheaper, high-performance materials continue to be developed. “The new Na2FeS2 positive electrodes are well balanced in terms of materials, cost and lifetime; we expect them to be put to practical use in all-solid-state sodium batteries. In the future, we will continue our research to develop cheaper all-solid-state sodium batteries with even higher performance, by examining high input and output for rapid recharging, as well as making and testing of superior anode materials,” Sakuda said.&lt;/p&gt;
 
-&lt;p&gt;Founder Robert Boschetti, who has been working in the electrical industry in Albury/Wodonga for over 20 years, said he believed the company’s ability to offer a thorough education in both traditional electrical trade and green energy makes it an employer of choice. Boschetti also sticks to a strict trade-to-apprentice ratio and rotates the apprentices through different sub-specialisations.&lt;/p&gt;
-
-&lt;p&gt;Boschetti credited &lt;a href="https://kestrelrecruitment.com.au/" target="_blank"&gt;Kestrel Recruitment&lt;/a&gt; with helping him to find and employ apprentices. As a Group Training Organisation, Kestrel recruits and employs apprentices, then places them with host employers such as Boschetti.&lt;/p&gt;
-
-&lt;p&gt;This relationship means that Kestrel takes care of administrative, training and employment responsibilities, allowing Boschetti to concentrate on its core business and apprentice training.&lt;/p&gt;
-
-&lt;p&gt;“Kestrel presents us with the shortlist and conducts the background checks. They have worked closely with us ever since and understand our needs. They just want to help, and it’s fantastic to have them on our team,” Boschetti said.&lt;/p&gt;
-
-&lt;p&gt;While having skilled and experienced staff is vital for his own company, Boschetti said it was also about giving back to the industry.&lt;/p&gt;
-
-&lt;p&gt;“I’ve got a duty to return qualified competent personnel into the industry. Not just for our business but for all businesses. As a company we have a clear strategic plan, and it includes training. We take it seriously in the sense that we create our legacy by challenging the existing legacy,” he said.&lt;/p&gt;
-
-&lt;p&gt;&lt;h9&gt;Image caption: Robert Boschetti.&lt;/h9&gt;&lt;/p&gt;
+&lt;p&gt;&lt;h9&gt;Image credit: iStock.com/Gerardo Carnero&lt;/h9&gt;&lt;/p&gt;
 </description>
-      <pubDate>Wed, 18 Oct 2023 00:00:00 +1100</pubDate>
-      <link>https://www.ecdonline.com.au/content/business-and-management/news/local-business-recognised-for-strong-apprenticeship-record-749374910</link>
-      <guid isPermaLink="true">https://www.ecdonline.com.au/content/business-and-management/news/local-business-recognised-for-strong-apprenticeship-record-749374910</guid>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +1100</pubDate>
+      <link>https://www.electronicsonline.net.au/content/power/news/electrode-material-used-to-enhance-all-solid-state-sodium-batteries-1031373245?utm_source=rss</link>
+      <guid isPermaLink="true">https://www.electronicsonline.net.au/content/power/news/electrode-material-used-to-enhance-all-solid-state-sodium-batteries-1031373245?utm_source=rss</guid>
     </item>
     <item>
-      <title>Siemens SIRIUS Signal Columns</title>
-      <description>&lt;img class="img-responsive" src="https://d1v1e13ebw3o15.cloudfront.net/data/79108/pool_and_spa_logo/..jpg"  style="display: block; margin: auto" &gt;   &lt;p&gt;On machines or in automated processes, signal towers are important visual aids for controlling complex processes. Now, APS Industrial has brought to market a new range of Siemens SIRIUS signalling columns that are much more than just an on/off light.&lt;/p&gt;
+      <title>MXene composite used to reduce electromagnetic interference</title>
+      &lt;img class="img-responsive" src="https://d1v1e13ebw3o15.cloudfront.net/data/80029/pool_and_spa_logo/..jpg"&gt; &lt;p&gt;Science researchers from Drexel University’s College of Engineering have developed a special coating that could one day prevent electronic devices and components from going haywire when they are too close to one another. The coating was developed using a type of two-dimensional material called MXene and is capable of absorbing and disbursing the electromagnetic fields that are the source of the problem. Buzzing, feedback or static are the noticeable manifestations of electromagnetic interference, a collision of the electromagnetic fields generated by electronics devices. Aside from the sounds, this phenomenon can also diminish the performance of the devices and lead to overheating and malfunctions if left unchecked.&lt;/p&gt;
 
-&lt;p&gt;Thanks to professional signalling technology, the SIRIUS signalling columns optimise visibility of plant operations and, in turn, increase plant availability. The new-to-market units are capable of signalling different states and offer a variety of signalling levels and functions for flexibility.&lt;/p&gt;
+&lt;p&gt;While researchers and technologists have reduced this problem with each generation of devices, their strategies usually involve encasing vital components with a shielding that deflects electromagnetic waves. However, according to the team of researchers from Drexel, this is not a sustainable solution. “Because the number of electronics devices will continue to grow, deflecting the electromagnetic waves they produce is really just a short-term solution. To truly solve this problem, we need to develop materials that will absorb and dissipate the interference. We believe we have found just such a material,” said Yury Gogotsi, PhD, Distinguished University and Bach Professor in the College of Engineering, who led the research.&lt;/p&gt;
 
-&lt;p&gt;The wide range of signalling variants includes an individual mode that allows a user to activate each of the segments separately; and multicolour LEDs, enabling the setting of more than 1M colours. Different light effects encompass Continuous, Blinking (3/2/1 Hz), Flashing (1x/2x/3x) and Rotating light (70 rpm).&lt;/p&gt;
+&lt;p&gt;In the recent edition of &lt;a href="https://www.sciencedirect.com/science/article/pii/S2666386422003678" target="_blank"&gt;&lt;em&gt;Cell Reports Physical Science&lt;/em&gt;&lt;/a&gt;, Gogotsi’s team reported that combining MXene, a material they discovered more than a decade ago, with a conductive element called vanadium in a polymer solution produces a coating that can absorb electromagnetic waves. While researchers have previously demonstrated that MXenes are effective at warding off electromagnetic interference by reflecting it, adding vanadium carbide in a polymer matrix enhances two key characteristics of the material that improve its shielding performance.&lt;/p&gt;
 
-&lt;p&gt;SIRIUS command, signalling and detecting devices are a good choice when it comes to control, command and monitoring.&lt;/p&gt;
+&lt;p&gt;Adding vanadium to the MXene structure — a material known for its durability and corrosion-resistant properties, that is used in steel alloys for space vehicles and nuclear reactors — causes layers of the MXene to form in a sort of electrochemical grid that is suitable for trapping ions. Using microwave-transparent polymer also makes the material more permeable to the electromagnetic waves. Combined, these properties produce a coating that can absorb, entrap and dissipate the energy of electromagnetic waves at greater than 90% efficiency, according to the research.&lt;/p&gt;
+
+&lt;p&gt;Meikang Han, PhD, participated in the research and said that combining polyurethane, a common polymer used in wall paint, with a small amount of MXene filler — about one part MXene in 50 parts polyurethane — can absorb more than 90% of incident electromagnetic waves covering the entire band of radar frequencies, known as X-band frequencies. “Radio waves just disappear inside the MXene-polymer composite film — of course, nothing disappears completely, the energy of the waves is transformed to a very small amount of heat which is easily dissipated by the material,” Han said.&lt;/p&gt;
+
+&lt;p&gt;A thin coating of the vanadium-based MXene material — less than the width of a human hair — could render a material impermeable to any electromagnetic waves in the X-band spectrum, which includes microwave radiation and is the most common frequency produced by devices. Gogotsi said that this development could be important for applications in medical and military settings where maintaining technological performance is crucial.&lt;/p&gt;
+
+&lt;p style="text-align:center"&gt;&lt;img alt="" class="img-responsive" src="https://d2emomln4apc0h.cloudfront.net/assets/489575/web_image_article/Drexel_1-s2.0-S2666386422003678-fx1_lrg.jpg" style="display: block; height: 400px; margin: auto; width: 400px"&gt;&lt;/p&gt;
+
+&lt;p style="text-align:center"&gt;&lt;h9&gt;The MXene polymer composite being developed in Drexel’s College of Engineering that could help to curtail the ever-increasing electromagnetic interference that comes with the proliferation of electronics devices. Image credit: Drexel University/Cell Reports Physical Science&lt;/h9&gt;&lt;/p&gt;
+
+&lt;p&gt;“Our results show that vanadium-based MXenes could play a key role in the expansion of Internet of Things technology and 5G and 6G communications. This study provides a new director for the development of thin, highly absorbent, MXene-based electromagnetic interference protection materials,” Gogotsi said.&lt;/p&gt;
+
+&lt;p&gt;The research was supported by the US National Science Foundation, the Murata Manufacturing Company and the US Department of Energy.&lt;/p&gt;
+
+&lt;p&gt;&lt;h9&gt;Top image credit: iStock.com/Petrovich9&lt;/h9&gt;&lt;/p&gt;
 </description>
-      <pubDate>Tue, 17 Oct 2023 00:00:00 +1100</pubDate>
-      <link>https://www.ecdonline.com.au/content/automation-security-control/hot-product/siemens-sirius-signal-columns-379426698</link>
-      <guid isPermaLink="true">https://www.ecdonline.com.au/content/automation-security-control/hot-product/siemens-sirius-signal-columns-379426698</guid>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +1100</pubDate>
+      <link>https://www.electronicsonline.net.au/content/protection/news/mxene-composite-used-to-reduce-electromagnetic-interference-592865558?utm_source=rss</link>
+      <guid isPermaLink="true">https://www.electronicsonline.net.au/content/protection/news/mxene-composite-used-to-reduce-electromagnetic-interference-592865558?utm_source=rss</guid>
     </item>
   </channel>
 </rss>
